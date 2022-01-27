@@ -26,9 +26,9 @@
 
 ## Research Paper
 
-  - DIGITAL-BOOKSTORE
+  >DIGITAL-BOOKSTORE
 
-    A responsive website of Digital Bookstore that lists all of the books that are currently available in the shop, along with their descriptions. The website allows users to browse books by category or author, search for a specific book, and see the entire description page of any book. You may also sort the results based on price or discount. The user may register and login on subsequent visits, check his or her basket and purchase the books they want. In the event of a problem, the user can submit a question, which is then forwarded straight to the administrator through email.
+  - A responsive website of Digital Bookstore that lists all of the books that are currently available in the shop, along with their descriptions. The website allows users to browse books by category or author, search for a specific book, and see the entire description page of any book. You may also sort the results based on price or discount. The user may register and login on subsequent visits, check his or her basket and purchase the books they want. In the event of a problem, the user can submit a question, which is then forwarded straight to the administrator through email.
 
   - [Published Paper @IJRASET](https://doi.org/10.22214/ijraset.2021.36609)
 
@@ -44,3 +44,6 @@
 ## Submission Report
 
   - [Report](https://github.com/Amey-Thakur/SOFTWARE-ENGINEERING-AND-SOFTWARE-ENGINEERING-LAB/blob/main/Submission%20Report/Amey_B-50_SE_Term_Work_Submission_Report.pdf)
+
+
+
