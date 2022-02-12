@@ -1,5 +1,5 @@
-# SOFTWARE ENGINEERING AND SOFTWARE ENGINEERING LAB
- SE & SEL [SEMESTER VI]
+# SOFTWARE-ENGINEERING-AND-SOFTWARE-ENGINEERING-LAB
+ SE & SE LAB [SEMESTER VI]
 
 ## Assignments
 
@@ -44,6 +44,3 @@
 ## Submission Report
 
   - [Report](https://github.com/Amey-Thakur/SOFTWARE-ENGINEERING-AND-SOFTWARE-ENGINEERING-LAB/blob/main/Submission%20Report/Amey_B-50_SE_Term_Work_Submission_Report.pdf)
-
-
-
