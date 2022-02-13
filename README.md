@@ -55,6 +55,10 @@
   - SE [Quiz - 5](https://github.com/Amey-Thakur/SOFTWARE-ENGINEERING-AND-SOFTWARE-ENGINEERING-LAB/blob/main/Quizzes/SE%20Quiz%205%20-%20Chapter%20No%205_TE_B_FH%202021.pdf)
   - SE [Quiz - 6](https://github.com/Amey-Thakur/SOFTWARE-ENGINEERING-AND-SOFTWARE-ENGINEERING-LAB/blob/main/Quizzes/SE%20Quiz%206%20-%20Chapter%20No%206_TE_B_FH%202021.pdf)
 
+## Mock Test
+
+ - [Technical Mock Test](https://github.com/Amey-Thakur/SOFTWARE-ENGINEERING-AND-SOFTWARE-ENGINEERING-LAB/blob/main/Technical%20Mock%20Test-%20For%20Terna%20Engineering%20College%20by%20Campus%20Corners!.pdf)
+
 ## Internal Assessment Test
 
  - SE [IAT - 1](https://github.com/Amey-Thakur/SOFTWARE-ENGINEERING-AND-SOFTWARE-ENGINEERING-LAB/blob/main/Internal%20Assessment%20Test/Amey_B-50_SE_IAT-1.pdf)
