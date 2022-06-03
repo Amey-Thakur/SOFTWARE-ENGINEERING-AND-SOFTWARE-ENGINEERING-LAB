@@ -1,5 +1,5 @@
 # SOFTWARE-ENGINEERING-AND-SOFTWARE-ENGINEERING-LAB
- CSC601: SE & CSL601: SE LAB [SEMESTER VI]
+ 👍🏻 CSC601: SE & CSL601: SE LAB [SEMESTER VI]
 
 ---
  
@@ -60,11 +60,11 @@
 
  - _A responsive website of Digital Bookstore that lists all of the books that are currently available in the shop, along with their descriptions. The website allows users to browse books by category or author, search for a specific book, and see the entire description page of any book. You may also sort the results based on price or discount. The user may register and login on subsequent visits, check his or her basket and purchase the books they want. In the event of a problem, the user can submit a question, which is then forwarded straight to the administrator through email._
 
- - [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Research%20Papers/Digital%20Bookstore/IJRASET36609%20-%20Digital%20Bookstore.pdf)
+   - [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Research%20Papers/Digital%20Bookstore/IJRASET36609%20-%20Digital%20Bookstore.pdf)
  
- - IJRASET | Volume 9 Issue 7 | [Published Article](https://doi.org/10.22214/ijraset.2021.36609) 
+   - IJRASET | Volume 9 Issue 7 | [Published Article](https://doi.org/10.22214/ijraset.2021.36609) 
  
- - viXra | [Preprint](https://vixra.org/abs/2108.0142)
+   - viXra | [Preprint](https://vixra.org/abs/2108.0142)
 
 
 ## Quizzes
@@ -74,7 +74,6 @@
  - SE [Quiz - 2](https://github.com/Amey-Thakur/SOFTWARE-ENGINEERING-AND-SOFTWARE-ENGINEERING-LAB/blob/main/Quizzes/SE%20Quiz%202%20-%20Chapter%20No%202_TE_B_FH%202021.pdf)
  
  - SE [Quiz - 3](https://github.com/Amey-Thakur/SOFTWARE-ENGINEERING-AND-SOFTWARE-ENGINEERING-LAB/blob/main/Quizzes/SE%20Quiz%203%20-%20Chapter%20No%203_TE_B_FH%202021.pdf)
- 
  
  - SE [Quiz - 4](https://github.com/Amey-Thakur/SOFTWARE-ENGINEERING-AND-SOFTWARE-ENGINEERING-LAB/blob/main/Quizzes/SE%20Quiz%204%20-%20Chapter%20No%204_TE_B_FH%202021.pdf)
  
@@ -108,3 +107,9 @@
 ## Submission Report
  
  - [Report](https://github.com/Amey-Thakur/SOFTWARE-ENGINEERING-AND-SOFTWARE-ENGINEERING-LAB/blob/main/Submission%20Report/Amey_B-50_SE_Term_Work_Submission_Report.pdf)
+
+---
+
+<p align="center"> <b> 👉🏻 Subject as a part of the 6th Semester of Engineering @ University of Mumbai 👈🏻 <b> </p>
+ 
+<p align="center"><a href='https://github.com/Amey-Thakur/ACHIEVEMENTS#engineering', style='color: greenyellow;'> ✌🏻 Back To Engineering ✌🏻</p>
