@@ -418,7 +418,7 @@ Special thanks to the mentors and peers whose encouragement, discussions, and su
 
   <br>
 
-  **[🧪 SE Lab](Software%20Engineering%20Lab/README.md)** &nbsp;·&nbsp; **[📚 Digital Bookstore](https://github.com/Amey-Thakur/DIGITAL-BOOKSTORE)**
+  **[🧪 Software Engineering Lab](Software%20Engineering%20Lab/README.md)** &nbsp;·&nbsp; **[📚 Digital Bookstore](https://github.com/Amey-Thakur/DIGITAL-BOOKSTORE)**
 
 </div>
 
