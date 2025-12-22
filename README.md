@@ -135,18 +135,18 @@ The laboratory component (CSL601) focuses on hands-on implementation of software
 
 | # | Experiment Name | Description | Date | Marks | Resource |
 |:-:|:---|:---|:---:|:---:|:-:|
-| 1 | **Introduction to SE** | Software Engineering Concepts | — | — | [📄](Experiments/Amey_B-50_Software_Engineering_Lab_Experiment-1.pdf) |
-| 2 | **SRS Document** | Software Requirement Specification | — | — | [📄](Experiments/Amey_B-50_Software_Engineering_Lab_Experiment-2.pdf) |
-| 3 | **Data Flow Diagrams** | DFD Level 0, 1, 2 | — | — | [📄](Experiments/Amey_B-50_Software_Engineering_Lab_Experiment-3.pdf) |
-| 4 | **Use Case Diagrams** | UML Use Case Modeling | — | — | [📄](Experiments/Amey_B-50_Software_Engineering_Lab_Experiment-4.pdf) |
-| 5 | **Class Diagrams** | UML Class Modeling | — | — | [📄](Experiments/Amey_B-50_Software_Engineering_Lab_Experiment-5.pdf) |
-| 6 | **Sequence Diagrams** | UML Sequence Modeling | — | — | [📄](Experiments/Amey_B-50_Software_Engineering_Lab_Experiment-6.pdf) |
-| 7 | **Activity Diagrams** | UML Activity Modeling | — | — | [📄](Experiments/Amey_B-50_Software_Engineering_Lab_Experiment-7.pdf) |
-| 8 | **State Diagrams** | UML State Machine Modeling | — | — | [📄](Experiments/Amey_B-50_Software_Engineering_Lab_Experiment-8.pdf) |
-| 9 | **Component & Deployment** | UML Component & Deployment Diagrams | — | — | [📄](Experiments/Amey_B-50_Software_Engineering_Lab_Experiment-9.pdf) |
-| 10 | **Software Testing** | Testing Techniques & Strategies | — | — | [📄](Experiments/Amey_B-50_Software_Engineering_Lab_Experiment-10.pdf) |
-| 11 | **COCOMO Estimation** | Project Estimation using COCOMO | — | — | [📄](Experiments/Amey_B-50_Software_Engineering_Lab_Experiment-11.pdf) |
-| 12 | **Software Quality** | Software Quality Assurance | — | — | [📄](Experiments/Amey_B-50_Software_Engineering_Lab_Experiment-12.pdf) |
+| 1 | **Problem Statement & Process Model** | Prepare detailed problem statement and identify suitable process model with justification | — | 9/10 | [📄](Experiments/Amey_B-50_Software_Engineering_Lab_Experiment-1.pdf) |
+| 2 | **SRS Document** | Prepare Software Requirement Specification document (IEEE format) | — | 9/10 | [📄](Experiments/Amey_B-50_Software_Engineering_Lab_Experiment-2.pdf) |
+| 3 | **DFD & Data Dictionary** | Draw DFD (up to 2 levels) and prepare Data Dictionary | — | 9/10 | [📄](Experiments/Amey_B-50_Software_Engineering_Lab_Experiment-3.pdf) |
+| 4 | **Use Case Diagrams** | Identify scenarios & develop UML Use Case diagram | — | 9/10 | [📄](Experiments/Amey_B-50_Software_Engineering_Lab_Experiment-4.pdf) |
+| 5 | **Class Diagrams** | Develop UML Class Diagram for the mini-project | — | 9/10 | [📄](Experiments/Amey_B-50_Software_Engineering_Lab_Experiment-5.pdf) |
+| 6 | **Sequence & Collaboration** | Develop Sequence and Collaboration diagrams | — | 9/10 | [📄](Experiments/Amey_B-50_Software_Engineering_Lab_Experiment-6.pdf) |
+| 7 | **Activity & State Diagrams** | Develop Activity / State Transition diagrams | — | 9/10 | [📄](Experiments/Amey_B-50_Software_Engineering_Lab_Experiment-7.pdf) |
+| 8 | **Project Management Tools** | Schedule project plan using Gantt Chart, CPM, and EVA | — | 9/10 | [📄](Experiments/Amey_B-50_Software_Engineering_Lab_Experiment-8.pdf) |
+| 9 | **COCOMO Estimation** | Estimation of project metrics using COCOMO | — | 10/10 | [📄](Experiments/Amey_B-50_Software_Engineering_Lab_Experiment-9.pdf) |
+| 10 | **UI Design** | Design User Interface for the mini-project | — | 9/10 | [📄](Experiments/Amey_B-50_Software_Engineering_Lab_Experiment-10.pdf) |
+| 11 | **RMMM Plan** | Prepare Risk Mitigation, Monitoring & Management Plan | — | 9/10 | [📄](Experiments/Amey_B-50_Software_Engineering_Lab_Experiment-11.pdf) |
+| 12 | **Software Testing** | White box, Black box testing and Test case development | — | 9/10 | [📄](Experiments/Amey_B-50_Software_Engineering_Lab_Experiment-12.pdf) |
 
 ---
 
