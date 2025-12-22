@@ -223,12 +223,19 @@ Technical mock test conducted for placement preparation:
 
 Internal assessment evaluations conducted during the course:
 
+### IAT - 1
+
 | Resource | Description | Marks |
 |:---|:---|:---:|
-| [📄 IAT - 1 Question Paper](Internal%20Assessment%20Test/29Software%20Engg_IA%201_Descriptive%20Question.pdf) | SE Internal Assessment Test 1 Question Paper | — |
-| [📄 IAT - 1 MCQ](Internal%20Assessment%20Test/SE-MCQ.png) | SE Internal Assessment Test 1 MCQ | 10/10 |
-| [📄 IAT - 1](Internal%20Assessment%20Test/Amey_B-50_SE_IAT-1.pdf) | SE Internal Assessment Test 1 | 19/20 |
-| [📄 IAT - 2](Internal%20Assessment%20Test/Amey_B-50_SE_IAT-2.pdf) | SE Internal Assessment Test 2 | — |
+| [📄 Question Paper](Internal%20Assessment%20Test/29Software%20Engg_IA%201_Descriptive%20Question.pdf) | SE Internal Assessment Test 1 Question Paper | — |
+| [📄 MCQ](Internal%20Assessment%20Test/SE-MCQ.png) | SE Internal Assessment Test 1 MCQ | 10/10 |
+| [📄 Answer Sheet](Internal%20Assessment%20Test/Amey_B-50_SE_IAT-1.pdf) | SE Internal Assessment Test 1 Answer Sheet | 19/20 |
+
+### IAT - 2
+
+| Resource | Description | Marks |
+|:---|:---|:---:|
+| [📄 Answer Sheet](Internal%20Assessment%20Test/Amey_B-50_SE_IAT-2.pdf) | SE Internal Assessment Test 2 Answer Sheet | — |
 
 **Additional Resources:**
 
