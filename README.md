@@ -180,13 +180,13 @@ The laboratory component (CSL601) focuses on hands-on implementation of software
 <div align="center">
 
 ### 👥 Authors
-| <img src="https://github.com/Amey-Thakur.png" width="150" alt="Amey Thakur"><br>[**Amey Thakur**](https://github.com/Amey-Thakur) | <img src="Mega/Mega.png" width="150" alt="Mega Satish"><br>[**Mega Satish**](https://github.com/Mega-Satish) |
+| <img src="https://github.com/Amey-Thakur.png" width="150" alt="Amey Thakur"><br>[**Amey Thakur**](https://github.com/Amey-Thakur) | <img src="Mega/Mega.png" width="150" alt="Mega Satish"><br>[**Mega Satish**](https://github.com/msatmod) |
 | :---: | :---: |
 </div>
 
 > [!IMPORTANT]
 > ### 🤝🏻 Special Acknowledgement
-> *Special thanks to [Mega Satish](https://github.com/Mega-Satish) for his meaningful contributions, guidance, and support that helped shape this work.*
+> *Special thanks to [Mega Satish](https://github.com/msatmod) for his meaningful contributions, guidance, and support that helped shape this work.*
 
 ### Project Overview
 A responsive Digital Bookstore website developed as a mini project for the Software Engineering Lab. The website lists all of the books that are currently available in the shop, along with their descriptions. Users can browse books by category or author, search for a specific book, and view complete description pages. The platform features sorting by price or discount, user registration and login, shopping cart functionality, and direct email support for inquiries. This project showcases the practical integration of **PHP**, **MySQL**, and **front-end technologies** to solve real-world e-commerce challenges.
