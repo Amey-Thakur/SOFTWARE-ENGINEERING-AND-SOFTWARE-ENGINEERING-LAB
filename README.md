@@ -223,10 +223,10 @@ Technical mock test conducted for placement preparation:
 
 Internal assessment evaluations conducted during the course:
 
-| # | Assessment | Resource |
-|:-:|:---|:-:|
-| 1 | **IAT - 1** | [📄 View](Internal%20Assessment%20Test/Amey_B-50_SE_IAT-1.pdf) |
-| 2 | **IAT - 2** | [📄 View](Internal%20Assessment%20Test/Amey_B-50_SE_IAT-2.pdf) |
+| Resource | Description | Marks |
+|:---|:---|:---:|
+| [📄 IAT - 1](Internal%20Assessment%20Test/Amey_B-50_SE_IAT-1.pdf) | SE Internal Assessment Test 1 | — |
+| [📄 IAT - 2](Internal%20Assessment%20Test/Amey_B-50_SE_IAT-2.pdf) | SE Internal Assessment Test 2 | — |
 
 **Additional Resources:**
 
