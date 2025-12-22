@@ -199,7 +199,7 @@ SE-specific quizzes conducted during the course:
 | Quiz 3 | Chapter 3: Project Scheduling and Tracking | 10/10 | [📄](Quizzes/SE%20Quiz%203%20-%20Chapter%20No%203_TE_B_FH%202021.pdf) |
 | Quiz 4 | Chapter 4: Software Design | 10/10 | [📄](Quizzes/SE%20Quiz%204%20-%20Chapter%20No%204_TE_B_FH%202021.pdf) |
 | Quiz 5 | Chapter 5: Risk Management and Configuration Management | 10/10 | [📄](Quizzes/SE%20Quiz%205%20-%20Chapter%20No%205_TE_B_FH%202021.pdf) |
-| Quiz 6 | Chapter 6: Software Testing | 10/10 | [📄](Quizzes/SE%20Quiz%206%20-%20Chapter%20No%206_TE_B_FH%202021.pdf) |
+| Quiz 6 | Chapter 6: Software Testing and Maintenance | 10/10 | [📄](Quizzes/SE%20Quiz%206%20-%20Chapter%20No%206_TE_B_FH%202021.pdf) |
 
 ---
 
