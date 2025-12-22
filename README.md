@@ -225,7 +225,7 @@ Internal assessment evaluations conducted during the course:
 
 | Resource | Description | Marks |
 |:---|:---|:---:|
-| [📄 IAT - 1](Internal%20Assessment%20Test/Amey_B-50_SE_IAT-1.pdf) | SE Internal Assessment Test 1 | — |
+| [📄 IAT - 1](Internal%20Assessment%20Test/Amey_B-50_SE_IAT-1.pdf) | SE Internal Assessment Test 1 | 19/20 |
 | [📄 IAT - 2](Internal%20Assessment%20Test/Amey_B-50_SE_IAT-2.pdf) | SE Internal Assessment Test 2 | — |
 
 **Additional Resources:**
