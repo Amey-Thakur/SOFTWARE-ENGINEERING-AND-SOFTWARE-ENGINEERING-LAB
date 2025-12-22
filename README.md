@@ -180,7 +180,7 @@ The laboratory component (CSL601) focuses on hands-on implementation of software
 <div align="center">
 
 ### 👥 Authors
-| <img src="https://github.com/Amey-Thakur.png" width="150" alt="Amey Thakur"><br>[**Amey Thakur**](https://github.com/Amey-Thakur) | <img src="https://github.com/Mega-Satish.png" width="150" alt="Mega Satish"><br>[**Mega Satish**](https://github.com/Mega-Satish) |
+| <img src="https://github.com/Amey-Thakur.png" width="150" alt="Amey Thakur"><br>[**Amey Thakur**](https://github.com/Amey-Thakur) | <img src="Mega/Mega.png" width="150" alt="Mega Satish"><br>[**Mega Satish**](https://github.com/Mega-Satish) |
 | :---: | :---: |
 </div>
 
