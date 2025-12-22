@@ -251,6 +251,9 @@ Internal assessment evaluations conducted during the course:
      ========================================================================================= -->
 ## Semester Exam
 
+> [!IMPORTANT]
+> **COVID-19 Impact**: This coursework was completed during the COVID-19 pandemic. All examinations and assessments were conducted in a digital format.
+
 Final semester examination submission:
 
 | Resource | Description | Date |
