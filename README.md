@@ -192,14 +192,14 @@ A responsive website of Digital Bookstore that lists all of the books that are c
 
 SE-specific quizzes conducted during the course:
 
-| # | Quiz | Topics | Resource |
-|:-:|:---|:---|:-:|
-| 1 | **Quiz 1** | Chapter No 1 | [📄 View](Quizzes/SE%20Quiz%201%20-%20Chapter%20No%201_TE_B_FH%202021.pdf) |
-| 2 | **Quiz 2** | Chapter No 2 | [📄 View](Quizzes/SE%20Quiz%202%20-%20Chapter%20No%202_TE_B_FH%202021.pdf) |
-| 3 | **Quiz 3** | Chapter No 3 | [📄 View](Quizzes/SE%20Quiz%203%20-%20Chapter%20No%203_TE_B_FH%202021.pdf) |
-| 4 | **Quiz 4** | Chapter No 4 | [📄 View](Quizzes/SE%20Quiz%204%20-%20Chapter%20No%204_TE_B_FH%202021.pdf) |
-| 5 | **Quiz 5** | Chapter No 5 | [📄 View](Quizzes/SE%20Quiz%205%20-%20Chapter%20No%205_TE_B_FH%202021.pdf) |
-| 6 | **Quiz 6** | Chapter No 6 | [📄 View](Quizzes/SE%20Quiz%206%20-%20Chapter%20No%206_TE_B_FH%202021.pdf) |
+| Quiz | Topics | Date | Marks | Resource |
+|:---|:---|:---:|:---:|:-:|
+| Quiz 1 | Chapter 1 | — | 10/10 | [📄](Quizzes/SE%20Quiz%201%20-%20Chapter%20No%201_TE_B_FH%202021.pdf) |
+| Quiz 2 | Chapter 2 | — | 10/10 | [📄](Quizzes/SE%20Quiz%202%20-%20Chapter%20No%202_TE_B_FH%202021.pdf) |
+| Quiz 3 | Chapter 3 | — | 10/10 | [📄](Quizzes/SE%20Quiz%203%20-%20Chapter%20No%203_TE_B_FH%202021.pdf) |
+| Quiz 4 | Chapter 4 | — | 10/10 | [📄](Quizzes/SE%20Quiz%204%20-%20Chapter%20No%204_TE_B_FH%202021.pdf) |
+| Quiz 5 | Chapter 5 | — | 10/10 | [📄](Quizzes/SE%20Quiz%205%20-%20Chapter%20No%205_TE_B_FH%202021.pdf) |
+| Quiz 6 | Chapter 6 | — | 10/10 | [📄](Quizzes/SE%20Quiz%206%20-%20Chapter%20No%206_TE_B_FH%202021.pdf) |
 
 ---
 
