@@ -266,18 +266,26 @@ Final semester examination submission:
      ========================================================================================= -->
 ## Question Papers
 
-Previous year university question papers organized by year:
+Previous year university question papers:
 
-| Year | Sessions | Link |
-|:---:|:---|:-:|
-| 2019 | December, May | [📁 Browse](Question%20Papers/2019/) |
-| 2018 | December, May | [📁 Browse](Question%20Papers/2018/) |
-| 2017 | December, May | [📁 Browse](Question%20Papers/2017/) |
-| 2016 | December, May | [📁 Browse](Question%20Papers/2016/) |
-| 2015 | December, May | [📁 Browse](Question%20Papers/2015/) |
-| 2014 | December, May | [📁 Browse](Question%20Papers/2014/) |
-| 2013 | December, May | [📁 Browse](Question%20Papers/2013/) |
-| 2012 | December, May | [📁 Browse](Question%20Papers/2012/) |
+| Exam Session | Syllabus | Resource |
+|:---|:---:|:-:|
+| May 2019 | CBCGS | [📄](Question%20Papers/2019/MAY/TE%20SEM%20VI%20COM%20MAY%202019.pdf) |
+| December 2019 | CBCGS | [�](Question%20Papers/2019/DEC/TE%20COM%20SEM-VI%20DEC%202019..pdf) |
+| May 2018 | CBCGS | [📄](Question%20Papers/2018/MAY/TE%20COME%20SEM-VI%20Rev%20May%202018.pdf) |
+| December 2018 | CBCGS | [�](Question%20Papers/2018/DEC/TE%20COM%20SEM%20VI%20DEC%202018.pdf) |
+| May 2017 | CBCGS | [📄](Question%20Papers/2017/MAY/TE%20COMPUTER%20SEM%206.pdf) |
+| December 2017 | CBCGS | [�](Question%20Papers/2017/DEC/TE%20COM%20SEM%20VI%20DEC%202017.pdf) |
+| May 2016 | CBCGS | [📄](Question%20Papers/2016/MAY/TE%20COM%20SEM%20VI%20MAY%202016.pdf) |
+| December 2016 | CBCGS | [�](Question%20Papers/2016/DEC/TE%20Sem%20VI%20DEC%202016%20COMPUTER.pdf) |
+| May 2015 | REV | [📄](Question%20Papers/2015/MAY/T%20E%20Sem%20Sem%20VI%20%20MAY%202015%20COMPUTER.pdf) |
+| December 2015 | REV | [�](Question%20Papers/2015/DEC/TE%20COM%20SEM%20VI%20DEC%202015.pdf) |
+| May 2014 | REV | [📄](Question%20Papers/2014/MAY/TE%20SE%20SemVI%20Com%20MAY%202014.pdf) |
+| December 2014 | REV | [�](Question%20Papers/2014/DEC/TE%20SemVI%20Com%20Dec%202014.pdf) |
+| May 2013 | REV | [📄](Question%20Papers/2013/MAY/TE%20Computer%20Sem%20VI%20Rev%20May2013.pdf) |
+| December 2013 | REV | [�](Question%20Papers/2013/DEC/TE%20Computer%20Sem%20VI%20Rev%20Dec2013.pdf) |
+| May 2012 | REV | [📄](Question%20Papers/2012/MAY/T.E.Computer%20Sem-VI%20Rev%20May%202012.pdf) |
+| December 2012 | REV | [�](Question%20Papers/2012/DEC/T.E.Computer.Sem-VI.Rev%20Dec-2012.pdf) |
 
 ---
 
