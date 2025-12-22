@@ -159,34 +159,51 @@ The laboratory component (CSL601) focuses on hands-on implementation of software
 
 <div align="center">
 
-  ### 📚 Digital Bookstore
-  
-  **A responsive website for online book browsing and purchasing**
-  
+  ### 📚 [Digital Bookstore](https://github.com/Amey-Thakur/DIGITAL-BOOKSTORE)
+
+  **A responsive website for online book browsing and purchasing using HTML, CSS, JavaScript, and PHP**
+
   [![Project](https://img.shields.io/badge/Project-Digital%20Bookstore-purple.svg)](https://github.com/Amey-Thakur/DIGITAL-BOOKSTORE)
-  [![Platform](https://img.shields.io/badge/Platform-Web-green.svg)](https://github.com/Amey-Thakur/DIGITAL-BOOKSTORE)
+  [![Stack](https://img.shields.io/badge/Stack-PHP%20%7C%20MySQL-blue.svg)](https://github.com/Amey-Thakur/DIGITAL-BOOKSTORE)
   [![Status](https://img.shields.io/badge/Status-Completed-brightgreen.svg)](https://github.com/Amey-Thakur/DIGITAL-BOOKSTORE)
-  [![Published Paper](https://img.shields.io/badge/Published%20Paper-IJRASET-gold.svg)](https://doi.org/10.22214/ijraset.2021.36609)
 
 </div>
 
-### Project Overview
+<div align="center">
 
-A responsive website of Digital Bookstore that lists all of the books that are currently available in the shop, along with their descriptions. The website allows users to browse books by category or author, search for a specific book, and see the entire description page of any book. You may also sort the results based on price or discount. The user may register and login on subsequent visits, check his or her basket and purchase the books they want. In the event of a problem, the user can submit a question, which is then forwarded straight to the administrator through email.
+  <a href="https://youtu.be/JuUix8olOC8">
+    <img src="https://img.youtube.com/vi/JuUix8olOC8/maxresdefault.jpg" width="50%" alt="Digital Bookstore Project Demo">
+  </a>
+
+</div>
+
+<div align="center">
+
+### 👥 Authors
+| <img src="https://github.com/Amey-Thakur.png" width="150" alt="Amey Thakur"><br>[**Amey Thakur**](https://github.com/Amey-Thakur) | <img src="https://github.com/Mega-Satish.png" width="150" alt="Mega Satish"><br>[**Mega Satish**](https://github.com/Mega-Satish) |
+| :---: | :---: |
+</div>
+
+> [!IMPORTANT]
+> ### 🤝🏻 Special Acknowledgement
+> *Special thanks to [Mega Satish](https://github.com/Mega-Satish) for his meaningful contributions, guidance, and support that helped shape this work.*
+
+### Project Overview
+A responsive Digital Bookstore website developed as a mini project for the Software Engineering Lab. The website lists all of the books that are currently available in the shop, along with their descriptions. Users can browse books by category or author, search for a specific book, and view complete description pages. The platform features sorting by price or discount, user registration and login, shopping cart functionality, and direct email support for inquiries. This project showcases the practical integration of **PHP**, **MySQL**, and **front-end technologies** to solve real-world e-commerce challenges.
+
+> [!NOTE]
+> **Research Impact**: This project was published as a research paper in **International Journal for Research in Applied Science and Engineering Technology (IJRASET)** (Volume 9, Issue 7) and is also available as a preprint on **viXra**.
+> - [Preprint @viXra](https://vixra.org/abs/2108.0142)
+> - [Published Paper @IJRASET](https://doi.org/10.22214/ijraset.2021.36609)
 
 ### 🔗 Resources
-
-| Resource | Description | Link |
-|:---|:---|:-:|
-| 🎮 Project Repository | Complete source code and documentation | [View](https://github.com/Amey-Thakur/DIGITAL-BOOKSTORE) |
-
-### Research Paper
-
-| Resource | Description | Link |
-|:---|:---|:-:|
-| 📜 Certificate | Publication Certificate | [View](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Research%20Papers/Digital%20Bookstore/IJRASET36609%20-%20Digital%20Bookstore.pdf) |
-| 📄 Published Article | IJRASET Volume 9 Issue 7 | [DOI](https://doi.org/10.22214/ijraset.2021.36609) |
-| 📋 Preprint | viXra Preprint | [View](https://vixra.org/abs/2108.0142) |
+| Resource | Description | Date | Marks |
+|:---|:---|:---:|:---:|
+| 📚 [Project Repository](https://github.com/Amey-Thakur/DIGITAL-BOOKSTORE) | Complete source code and documentation | May 2021 | — |
+| 📄 Project Report | Detailed documentation and system design | May 2021 | **09/10** |
+| 📊 Project Presentation | Visual overview of the development lifecycle | May 2021 | **09/10** |
+| 🎥 [Project Demo (YouTube)](https://youtu.be/JuUix8olOC8) | Real-time demonstration of features | May 2021 | — |
+| 📜 [Publication Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Research%20Papers/Digital%20Bookstore/IJRASET36609%20-%20Digital%20Bookstore.pdf) | Recognition for project excellence | July 2021 | — |
 
 ---
 
