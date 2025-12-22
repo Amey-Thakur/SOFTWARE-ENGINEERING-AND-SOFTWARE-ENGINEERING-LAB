@@ -114,6 +114,6 @@
 
 ---
 
-<p align="center"> <b> 👉🏻 Subject as a part of the 6th Semester of Engineering @ University of Mumbai 👈🏻 <b> </p>
+<p align="center"> <b> 👉🏻 Subject as a part of the 6th Semester of Engineering @ University of Mumbai 👈🏻 </b> </p>
  
-<p align="center"><a href='https://github.com/Amey-Thakur/COMPUTER-ENGINEERING', style='color: greenyellow;'> ✌🏻 Back To Engineering ✌🏻</p>
+<p align="center"><a href="https://github.com/Amey-Thakur/COMPUTER-ENGINEERING"> ✌🏻 Back To Engineering ✌🏻 </a></p>
