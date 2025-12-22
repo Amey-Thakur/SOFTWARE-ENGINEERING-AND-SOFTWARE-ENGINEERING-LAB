@@ -110,9 +110,9 @@ Academic assignments for comprehensive learning and practice:
 
 | # | Assignment | Description | Date | Marks | Link |
 |:-:|:---|:---|:---:|:---:|:-:|
-| 1 | **Assignment 1** | Software Engineering Concepts | February 20, 2021 | 9/10 | [📄 View](Assignments/Amey_B-50_SE_Assignment-1.pdf) |
-| 2 | **Assignment 2** | Requirement Analysis & Design | March 15, 2021 | 10/10 | [📄 View](Assignments/Amey_B-50_SE_Assignment-2.pdf) |
-| 3 | **Assignment 3** | Testing & Project Management | April 10, 2021 | 9/10 | [📄 View](Assignments/Amey_B-50_SE_Assignment-3.pdf) |
+| 1 | **Assignment 1** | Software Engineering Concepts | March 20, 2021 | 9/10 | [📄 View](Assignments/Amey_B-50_SE_Assignment-1.pdf) |
+| 2 | **Assignment 2** | Requirement Analysis & Design | April 10, 2021 | 10/10 | [📄 View](Assignments/Amey_B-50_SE_Assignment-2.pdf) |
+| 3 | **Assignment 3** | Testing & Project Management | April 25, 2021 | 9/10 | [📄 View](Assignments/Amey_B-50_SE_Assignment-3.pdf) |
 
 **Topics Covered**: Software Process Models · Requirement Engineering (SRS, Use Cases) · System Design (DFD, UML Diagrams) · Software Testing (Black Box, White Box) · Project Management (COCOMO, Risk Analysis)
 
