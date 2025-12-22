@@ -5,7 +5,7 @@
 
   # Software Engineering Lab
 
-  ### CSL604 · Semester VI · Computer Engineering
+  ### CSL601 · Semester VI · Computer Engineering
 
   [![Curated by](https://img.shields.io/badge/Curated%20by-Amey%20Thakur-blue.svg)](https://github.com/Amey-Thakur)
   [![Documents](https://img.shields.io/badge/Documents-12-yellowgreen.svg)](#laboratory-experiments)
@@ -216,7 +216,7 @@ White box, Black box testing and Test case development.
 
   ### [Software Engineering Lab](https://github.com/Amey-Thakur/SOFTWARE-ENGINEERING-AND-SOFTWARE-ENGINEERING-LAB/tree/main/Software%20Engineering%20Lab)
 
-  **CSL604 · Semester VI · Computer Engineering**
+  **CSL601 · Semester VI · Computer Engineering**
 
   *University of Mumbai · Curated by [Amey Thakur](https://github.com/Amey-Thakur)*
 
