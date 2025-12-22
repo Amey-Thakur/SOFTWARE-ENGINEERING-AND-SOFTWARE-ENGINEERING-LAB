@@ -235,7 +235,7 @@ Internal assessment evaluations conducted during the course:
 |:---|:---|:-:|
 | Descriptive Questions | SE IA 1 Question Paper | [📄 View](Internal%20Assessment%20Test/29Software%20Engg_IA%201_Descriptive%20Question.pdf) |
 | Marksheet | IA1 Marksheet (TE COMP B) | [📄 View](Internal%20Assessment%20Test/SE_IA1_marksheet_TE%20COMP%20B_FH%202021.pdf) |
-| SE Paper | Additional SE Paper | [📄 View](Internal%20Assessment%20Test/SE.pdf) |
+| Answer Sheet Template | IAT Answer Sheet Template | [📄 View](Internal%20Assessment%20Test/SE.pdf) |
 
 ---
 
