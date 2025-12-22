@@ -226,6 +226,7 @@ Internal assessment evaluations conducted during the course:
 | Resource | Description | Marks |
 |:---|:---|:---:|
 | [📄 IAT - 1](Internal%20Assessment%20Test/Amey_B-50_SE_IAT-1.pdf) | SE Internal Assessment Test 1 | 19/20 |
+| [📄 IAT - 1 MCQ](Internal%20Assessment%20Test/SE-MCQ.png) | SE Internal Assessment Test 1 MCQ | 10/10 |
 | [📄 IAT - 2](Internal%20Assessment%20Test/Amey_B-50_SE_IAT-2.pdf) | SE Internal Assessment Test 2 | — |
 
 **Additional Resources:**
@@ -234,7 +235,6 @@ Internal assessment evaluations conducted during the course:
 |:---|:---|:-:|
 | Descriptive Questions | SE IA 1 Question Paper | [📄 View](Internal%20Assessment%20Test/29Software%20Engg_IA%201_Descriptive%20Question.pdf) |
 | Marksheet | IA1 Marksheet (TE COMP B) | [📄 View](Internal%20Assessment%20Test/SE_IA1_marksheet_TE%20COMP%20B_FH%202021.pdf) |
-| SE MCQ | MCQ Assessment | [📄 View](Internal%20Assessment%20Test/SE-MCQ.png) |
 | SE Paper | Additional SE Paper | [📄 View](Internal%20Assessment%20Test/SE.pdf) |
 
 ---
