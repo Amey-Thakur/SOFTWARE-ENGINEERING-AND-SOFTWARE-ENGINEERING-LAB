@@ -393,9 +393,11 @@ This repository represents a comprehensive collection of study materials, refere
 
 ### Acknowledgments
 
+Grateful acknowledgment to [Mega Satish](https://github.com/msatmod) for her exceptional support and collaboration during the laboratory experiments of this course. Her constant support, patience, and clarity as we learned the fundamentals of Software Engineering together made a real difference. Working alongside her was truly enriching—her ability to simplify complex concepts and her steady encouragement turned challenging experiments into meaningful learning moments. This repository reflects the growth that came from our shared curiosity and mutual dedication to mastering the subject. Thank you, Mega, for being such an outstanding partner to learn with and for all the knowledge we shared along the way.
+
 Special thanks to the faculty members of the Department of Computer Engineering at Terna Engineering College for their guidance and instruction in Software Engineering. Their clear teaching and continued support helped develop a strong understanding of software development principles.
 
-Grateful acknowledgment to [Mega Satish](https://github.com/msatmod) for her exceptional support and collaboration during the laboratory experiments of this course. Her constant support, patience, and clarity as we learned the fundamentals of Software Engineering together made a real difference. Working alongside her was truly enriching—her ability to simplify complex concepts and her steady encouragement turned challenging experiments into meaningful learning moments. This repository reflects the growth that came from our shared curiosity and mutual dedication to mastering the subject. Thank you, Mega, for being such an outstanding partner to learn with and for all the knowledge we shared along the way.
+Special thanks to the mentors and peers whose encouragement, discussions, and support contributed meaningfully to this learning experience.
 
 ---
 
