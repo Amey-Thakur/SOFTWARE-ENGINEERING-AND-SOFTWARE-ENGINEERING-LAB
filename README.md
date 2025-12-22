@@ -248,6 +248,7 @@ Final semester examination submission:
 
 | Resource | Description | Date |
 |:---|:---|:---:|
+| [📄 MCQ](Semester%20Exam/MCQ.pdf) | SE Semester Exam MCQ Paper | June 02, 2021 |
 | [📄 Question 2](Semester%20Exam/Q2_61021145_SE.pdf) | SE Semester Exam Answer Sheet | June 02, 2021 |
 | [📄 Question 3](Semester%20Exam/Q3_61021145_SE.pdf) | SE Semester Exam Answer Sheet | June 02, 2021 |
 
@@ -257,7 +258,6 @@ Final semester examination submission:
 |:---|:-:|
 | Answer Sheet Template | [View](Semester%20Exam/ANSWER%20SHEET%20-%20SE.docx) |
 | SE Questions | [View](Semester%20Exam/SE_QUESTIONS.docx) |
-| MCQ Paper | [View](Semester%20Exam/MCQ.pdf) |
 
 ---
 
