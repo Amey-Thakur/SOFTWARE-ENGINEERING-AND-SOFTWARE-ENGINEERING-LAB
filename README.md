@@ -95,7 +95,7 @@
  
  - SE [IAT - 1](https://github.com/Amey-Thakur/SOFTWARE-ENGINEERING-AND-SOFTWARE-ENGINEERING-LAB/blob/main/Internal%20Assessment%20Test/Amey_B-50_SE_IAT-1.pdf)
  
- - SE [IAT - 2](https://github.com/Amey-Thakur/SOFTWARE-ENGINEERING-AND-SOFTWARE-ENGINEERING-LAB/blob/main/Internal%20Assessment%20Test/AMEY_B-50_SE_IAT-2.pdf)
+ - SE [IAT - 2](https://github.com/Amey-Thakur/SOFTWARE-ENGINEERING-AND-SOFTWARE-ENGINEERING-LAB/blob/main/Internal%20Assessment%20Test/Amey_B-50_SE_IAT-2.pdf)
 
 
 ## Semester Exam
