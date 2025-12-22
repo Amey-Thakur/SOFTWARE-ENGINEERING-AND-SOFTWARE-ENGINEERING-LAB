@@ -278,14 +278,14 @@ Previous year university question papers:
 | December 2017 | CBCGS | [📄](Question%20Papers/2017/DEC/TE%20COM%20SEM%20VI%20DEC%202017.pdf) |
 | May 2016 | CBCGS | [📄](Question%20Papers/2016/MAY/TE%20COM%20SEM%20VI%20MAY%202016.pdf) |
 | December 2016 | CBCGS | [📄](Question%20Papers/2016/DEC/TE%20Sem%20VI%20DEC%202016%20COMPUTER.pdf) |
-| May 2015 | REV | [📄](Question%20Papers/2015/MAY/T%20E%20Sem%20Sem%20VI%20%20MAY%202015%20COMPUTER.pdf) |
-| December 2015 | REV | [📄](Question%20Papers/2015/DEC/TE%20COM%20SEM%20VI%20DEC%202015.pdf) |
-| May 2014 | REV | [📄](Question%20Papers/2014/MAY/TE%20SE%20SemVI%20Com%20MAY%202014.pdf) |
-| December 2014 | REV | [📄](Question%20Papers/2014/DEC/TE%20SemVI%20Com%20Dec%202014.pdf) |
-| May 2013 | REV | [📄](Question%20Papers/2013/MAY/TE%20Computer%20Sem%20VI%20Rev%20May2013.pdf) |
-| December 2013 | REV | [📄](Question%20Papers/2013/DEC/TE%20Computer%20Sem%20VI%20Rev%20Dec2013.pdf) |
-| May 2012 | REV | [📄](Question%20Papers/2012/MAY/T.E.Computer%20Sem-VI%20Rev%20May%202012.pdf) |
-| December 2012 | REV | [📄](Question%20Papers/2012/DEC/T.E.Computer.Sem-VI.Rev%20Dec-2012.pdf) |
+| May 2015 | CBGS | [📄](Question%20Papers/2015/MAY/T%20E%20Sem%20Sem%20VI%20%20MAY%202015%20COMPUTER.pdf) |
+| December 2015 | CBGS | [📄](Question%20Papers/2015/DEC/TE%20COM%20SEM%20VI%20DEC%202015.pdf) |
+| May 2014 | CBGS | [📄](Question%20Papers/2014/MAY/TE%20SE%20SemVI%20Com%20MAY%202014.pdf) |
+| December 2014 | CBGS | [📄](Question%20Papers/2014/DEC/TE%20SemVI%20Com%20Dec%202014.pdf) |
+| May 2013 | CBGS | [📄](Question%20Papers/2013/MAY/TE%20Computer%20Sem%20VI%20Rev%20May2013.pdf) |
+| December 2013 | CBGS | [📄](Question%20Papers/2013/DEC/TE%20Computer%20Sem%20VI%20Rev%20Dec2013.pdf) |
+| May 2012 | CBGS | [📄](Question%20Papers/2012/MAY/T.E.Computer%20Sem-VI%20Rev%20May%202012.pdf) |
+| December 2012 | CBGS | [📄](Question%20Papers/2012/DEC/T.E.Computer.Sem-VI.Rev%20Dec-2012.pdf) |
 
 ---
 
