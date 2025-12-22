@@ -150,6 +150,12 @@ The laboratory component (CSL601) focuses on hands-on implementation of software
 | 11 | **RMMM Plan** | Prepare Risk Mitigation, Monitoring & Management Plan | April 23, 2021 | 9/10 | [📄](Software%20Engineering%20Lab/Amey_B-50_Software_Engineering_Lab_Experiment-11.pdf) |
 | 12 | **Software Testing** | White box, Black box testing and Test case development | May 06, 2021 | 9/10 | [📄](Software%20Engineering%20Lab/Amey_B-50_Software_Engineering_Lab_Experiment-12.pdf) |
 
+### Laboratory Documentation
+
+| Resource | Description |
+|:---|:---|
+| 📖 [Lab README](Software%20Engineering%20Lab/README.md) | Detailed navigation guide with program descriptions |
+
 ---
 
 <!-- =========================================================================================
