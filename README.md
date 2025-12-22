@@ -246,10 +246,10 @@ Internal assessment evaluations conducted during the course:
 
 Final semester examination submission:
 
-| Resource | Description | Link |
-|:---|:---|:-:|
-| 📄 Answer Sheet Q2 | Final Semester Exam Submission (Q.2) | [View](Semester%20Exam/Q2_61021145_SE.pdf) |
-| 📄 Answer Sheet Q3 | Final Semester Exam Submission (Q.3) | [View](Semester%20Exam/Q3_61021145_SE.pdf) |
+| Resource | Description | Date |
+|:---|:---|:---:|
+| [📄 Question 2](Semester%20Exam/Q2_61021145_SE.pdf) | SE Semester Exam Answer Sheet | June 02, 2021 |
+| [📄 Question 3](Semester%20Exam/Q3_61021145_SE.pdf) | SE Semester Exam Answer Sheet | June 02, 2021 |
 
 **Additional Resources:**
 
