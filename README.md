@@ -223,7 +223,7 @@ Technical mock test conducted for placement preparation:
 
 Internal assessment evaluations conducted during the course:
 
-### IAT - 1
+### IAT - 1 · March 16, 2021
 
 | Resource | Description | Marks |
 |:---|:---|:---:|
