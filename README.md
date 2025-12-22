@@ -18,7 +18,7 @@
 
   ---
 
-  [📖 Overview](#overview) &nbsp;·&nbsp; [📂 Contents](#repository-contents) &nbsp;·&nbsp; [📚 Reference Books](#reference-books) &nbsp;·&nbsp; [📝 My Preparation](#my-preparation) &nbsp;·&nbsp; [📄 Assignments](#assignments) &nbsp;·&nbsp; [🧪 Laboratory](#software-engineering-laboratory) &nbsp;·&nbsp; [🎮 Project](#project) &nbsp;·&nbsp; [🧠 Quizzes](#quizzes) &nbsp;·&nbsp; [🧩 Mock Test](#mock-test) &nbsp;·&nbsp; [✏ IAT](#internal-assessment-test) &nbsp;·&nbsp; [🎓 Semester Exam](#semester-exam) &nbsp;·&nbsp; [📑 Question Papers](#question-papers) &nbsp;·&nbsp; [✅ Submission Report](#submission-completion-report) &nbsp;·&nbsp; [📋 Syllabus](#syllabus) &nbsp;·&nbsp; [📘 Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [📜 License](#license) &nbsp;·&nbsp; [ℹ About](#about-this-repository) &nbsp;·&nbsp; [🙏🏻 Acknowledgments](#acknowledgments)
+  [📖 Overview](#overview) &nbsp;·&nbsp; [📂 Contents](#repository-contents) &nbsp;·&nbsp; [📚 Reference Books](#reference-books) &nbsp;·&nbsp; [📝 Personal Preparation](#personal-preparation) &nbsp;·&nbsp; [📄 Assignments](#assignments) &nbsp;·&nbsp; [🧪 Laboratory](#software-engineering-laboratory) &nbsp;·&nbsp; [🎮 Project](#project) &nbsp;·&nbsp; [🧠 Quizzes](#quizzes) &nbsp;·&nbsp; [🧩 Mock Test](#mock-test) &nbsp;·&nbsp; [✏ IAT](#internal-assessment-test) &nbsp;·&nbsp; [🎓 Semester Exam](#semester-exam) &nbsp;·&nbsp; [📑 Question Papers](#question-papers) &nbsp;·&nbsp; [✅ Submission Report](#submission-completion-report) &nbsp;·&nbsp; [📋 Syllabus](#syllabus) &nbsp;·&nbsp; [📘 Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [📜 License](#license) &nbsp;·&nbsp; [ℹ About](#about-this-repository) &nbsp;·&nbsp; [🙏🏻 Acknowledgments](#acknowledgments)
 
 </div>
 
@@ -92,15 +92,15 @@ This collection includes **comprehensive reference materials** covering all majo
 
 ---
 
-### My Preparation
+### Personal Preparation
 
-Personal preparation resources for exam readiness:
+Study materials and planning resources for effective exam preparation:
 
-| # | Resource | Description | Link |
-|:-:|:---|:---|:-:|
-| 1 | **Blueprint** | SE exam blueprint | [📄 View](Blueprint%20(SE).png) |
-| 2 | **Semester 6 Timetable** | Academic schedule | [📄 View](SEMESTER%20VI.jpeg) |
-| 3 | **Computer Semester 6 Timetable** | Detailed timetable | [📄 View](Computer%20Semester%206%20Timetable.pdf) |
+| Resource | Description |
+|:---|:---|
+| [📄 Blueprint](Blueprint%20(SE).png) | SE exam blueprint and marking scheme |
+| [📊 Semester 6 Timetable](SEMESTER%20VI.jpeg) | Academic schedule for Semester VI |
+| [📋 Computer Semester 6 Timetable](Computer%20Semester%206%20Timetable.pdf) | Detailed computer engineering timetable |
 
 ---
 
@@ -390,7 +390,7 @@ Special thanks to the mentors and peers whose encouragement, discussions, and su
   <!-- Footer Navigation -->
   **[⬆ Back to Top](#software-engineering-and-software-engineering-lab)**
 
-  **[📖 Overview](#overview)** &nbsp;·&nbsp; **[📂 Contents](#repository-contents)** &nbsp;·&nbsp; **[📚 Reference Books](#reference-books)** &nbsp;·&nbsp; **[📝 My Preparation](#my-preparation)** &nbsp;·&nbsp; **[📄 Assignments](#assignments)** &nbsp;·&nbsp; **[🧪 Laboratory](#software-engineering-laboratory)** &nbsp;·&nbsp; **[🎮 Project](#project)** &nbsp;·&nbsp; **[🧠 Quizzes](#quizzes)** &nbsp;·&nbsp; **[🧩 Mock Test](#mock-test)** &nbsp;·&nbsp; **[✏ IAT](#internal-assessment-test)** &nbsp;·&nbsp; **[🎓 Semester Exam](#semester-exam)** &nbsp;·&nbsp; **[📑 Question Papers](#question-papers)** &nbsp;·&nbsp; **[✅ Submission Report](#submission-completion-report)** &nbsp;·&nbsp; **[📋 Syllabus](#syllabus)** &nbsp;·&nbsp; **[📘 Usage Guidelines](#usage-guidelines)** &nbsp;·&nbsp; **[📜 License](#license)** &nbsp;·&nbsp; **[ℹ About](#about-this-repository)** &nbsp;·&nbsp; **[🙏🏻 Acknowledgments](#acknowledgments)**
+  **[📖 Overview](#overview)** &nbsp;·&nbsp; **[📂 Contents](#repository-contents)** &nbsp;·&nbsp; **[📚 Reference Books](#reference-books)** &nbsp;·&nbsp; **[📝 Personal Preparation](#personal-preparation)** &nbsp;·&nbsp; **[📄 Assignments](#assignments)** &nbsp;·&nbsp; **[🧪 Laboratory](#software-engineering-laboratory)** &nbsp;·&nbsp; **[🎮 Project](#project)** &nbsp;·&nbsp; **[🧠 Quizzes](#quizzes)** &nbsp;·&nbsp; **[🧩 Mock Test](#mock-test)** &nbsp;·&nbsp; **[✏ IAT](#internal-assessment-test)** &nbsp;·&nbsp; **[🎓 Semester Exam](#semester-exam)** &nbsp;·&nbsp; **[📑 Question Papers](#question-papers)** &nbsp;·&nbsp; **[✅ Submission Report](#submission-completion-report)** &nbsp;·&nbsp; **[📋 Syllabus](#syllabus)** &nbsp;·&nbsp; **[📘 Usage Guidelines](#usage-guidelines)** &nbsp;·&nbsp; **[📜 License](#license)** &nbsp;·&nbsp; **[ℹ About](#about-this-repository)** &nbsp;·&nbsp; **[🙏🏻 Acknowledgments](#acknowledgments)**
 
   <br>
 
