@@ -165,7 +165,7 @@ The laboratory component (CSL601) focuses on hands-on implementation of software
 
 <div align="center">
 
-  ### [Digital Bookstore](https://github.com/Amey-Thakur/DIGITAL-BOOKSTORE)
+  ### 📚 [Digital Bookstore](https://github.com/Amey-Thakur/DIGITAL-BOOKSTORE)
 
   **A responsive website for online book browsing and purchasing using HTML, CSS, JavaScript, and PHP**
 
@@ -185,7 +185,7 @@ The laboratory component (CSL601) focuses on hands-on implementation of software
 
 <div align="center">
 
-### Authors
+### 👥 Authors
 | <img src="https://github.com/Amey-Thakur.png" width="150" alt="Amey Thakur"><br>[**Amey Thakur**](https://github.com/Amey-Thakur) | <img src="Mega/Mega.png" width="150" alt="Mega Satish"><br>[**Mega Satish**](https://github.com/msatmod) |
 | :---: | :---: |
 </div>
