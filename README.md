@@ -18,7 +18,7 @@
 
   ---
 
-  [📖 Overview](#overview) &nbsp;·&nbsp; [📂 Contents](#repository-contents) &nbsp;·&nbsp; [📚 Reference Books](#reference-books) &nbsp;·&nbsp; [📝 Personal Preparation](#personal-preparation) &nbsp;·&nbsp; [📄 Assignments](#assignments) &nbsp;·&nbsp; [🧪 Laboratory](#software-engineering-laboratory) &nbsp;·&nbsp; [🎮 Mini Project](#software-engineering-mini-project) &nbsp;·&nbsp; [🧠 Quizzes](#quizzes) &nbsp;·&nbsp; [🧩 Mock Test](#mock-test) &nbsp;·&nbsp; [✏ IAT](#internal-assessment-test) &nbsp;·&nbsp; [🎓 Semester Exam](#semester-exam) &nbsp;·&nbsp; [📑 Question Papers](#question-papers) &nbsp;·&nbsp; [✅ Submission Report](#submission-completion-report) &nbsp;·&nbsp; [📋 Syllabus](#syllabus) &nbsp;·&nbsp; [📘 Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [📜 License](#license) &nbsp;·&nbsp; [ℹ About](#about-this-repository) &nbsp;·&nbsp; [🙏🏻 Acknowledgments](#acknowledgments)
+  [Overview](#overview) &nbsp;·&nbsp; [Contents](#repository-contents) &nbsp;·&nbsp; [Reference Books](#reference-books) &nbsp;·&nbsp; [Personal Preparation](#personal-preparation) &nbsp;·&nbsp; [Assignments](#assignments) &nbsp;·&nbsp; [Software Engineering Laboratory](#software-engineering-laboratory) &nbsp;·&nbsp; [Mini Project](#software-engineering-mini-project) &nbsp;·&nbsp; [Quizzes](#quizzes) &nbsp;·&nbsp; [Mock Test](#mock-test) &nbsp;·&nbsp; [Internal Assessment Test](#internal-assessment-test) &nbsp;·&nbsp; [Semester Exam](#semester-exam) &nbsp;·&nbsp; [Question Papers](#question-papers) &nbsp;·&nbsp; [Submission Report](#submission-completion-report) &nbsp;·&nbsp; [Syllabus](#syllabus) &nbsp;·&nbsp; [Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
 
 </div>
 
@@ -98,9 +98,9 @@ Study materials and planning resources for effective exam preparation:
 
 | Resource | Description |
 |:---|:---|
-| [📄 Blueprint](Blueprint%20(SE).png) | SE exam blueprint and marking scheme |
-| [📊 Semester 6 Timetable](SEMESTER%20VI.jpeg) | Academic schedule for Semester VI |
-| [📋 Computer Semester 6 Timetable](Computer%20Semester%206%20Timetable.pdf) | Detailed computer engineering timetable |
+| [Blueprint](Blueprint%20(SE).png) | SE exam blueprint and marking scheme |
+| [Semester 6 Timetable](SEMESTER%20VI.jpeg) | Academic schedule for Semester VI |
+| [Computer Semester 6 Timetable](Computer%20Semester%206%20Timetable.pdf) | Detailed computer engineering timetable |
 
 ---
 
@@ -110,9 +110,9 @@ Academic assignments for comprehensive learning and practice:
 
 | # | Assignment | Description | Date | Marks | Link |
 |:-:|:---|:---|:---:|:---:|:-:|
-| 1 | **Assignment 1** | Agile Methodology, Waterfall & Spiral Models, Requirements Engineering | March 20, 2021 | 9/10 | [📄 View](Assignments/Amey_B-50_SE_Assignment-1.pdf) |
-| 2 | **Assignment 2** | Software Design Concepts, Cohesion & Coupling, Risk Management (RMMM) | April 10, 2021 | 10/10 | [📄 View](Assignments/Amey_B-50_SE_Assignment-2.pdf) |
-| 3 | **Assignment 3** | UML Diagrams (Component & Deployment) for Library Management System | April 25, 2021 | 9/10 | [📄 View](Assignments/Amey_B-50_SE_Assignment-3.pdf) |
+| 1 | **Assignment 1** | Agile Methodology, Waterfall & Spiral Models, Requirements Engineering | March 20, 2021 | 9/10 | [View](Assignments/Amey_B-50_SE_Assignment-1.pdf) |
+| 2 | **Assignment 2** | Software Design Concepts, Cohesion & Coupling, Risk Management (RMMM) | April 10, 2021 | 10/10 | [View](Assignments/Amey_B-50_SE_Assignment-2.pdf) |
+| 3 | **Assignment 3** | UML Diagrams (Component & Deployment) for Library Management System | April 25, 2021 | 9/10 | [View](Assignments/Amey_B-50_SE_Assignment-3.pdf) |
 
 **Topics Covered**: Agile Methodology & Principles · Waterfall and Spiral Process Models · Requirements Engineering & Gathering Techniques · Software Design Fundamentals · Cohesion and Coupling · Risk Management (RMMM Plan) · UML Component & Deployment Diagrams
 
@@ -154,7 +154,7 @@ The laboratory component (CSL601) focuses on hands-on implementation of software
 
 | Resource | Description |
 |:---|:---|
-| 📖 [Lab README](Software%20Engineering%20Lab/README.md) | Detailed navigation guide with program descriptions |
+| [Lab README](Software%20Engineering%20Lab/README.md) | Detailed navigation guide with program descriptions |
 
 ---
 
@@ -165,7 +165,7 @@ The laboratory component (CSL601) focuses on hands-on implementation of software
 
 <div align="center">
 
-  ### 📚 [Digital Bookstore](https://github.com/Amey-Thakur/DIGITAL-BOOKSTORE)
+  ### [Digital Bookstore](https://github.com/Amey-Thakur/DIGITAL-BOOKSTORE)
 
   **A responsive website for online book browsing and purchasing using HTML, CSS, JavaScript, and PHP**
 
@@ -185,13 +185,13 @@ The laboratory component (CSL601) focuses on hands-on implementation of software
 
 <div align="center">
 
-### 👥 Authors
+### Authors
 | <img src="https://github.com/Amey-Thakur.png" width="150" alt="Amey Thakur"><br>[**Amey Thakur**](https://github.com/Amey-Thakur) | <img src="Mega/Mega.png" width="150" alt="Mega Satish"><br>[**Mega Satish**](https://github.com/msatmod) |
 | :---: | :---: |
 </div>
 
 > [!IMPORTANT]
-> ### 🤝🏻 Special Acknowledgement
+> ### Special Acknowledgement
 > *Special thanks to [Mega Satish](https://github.com/msatmod) for her meaningful contributions, guidance, and support that helped shape this work.*
 
 ### Project Overview
@@ -202,7 +202,7 @@ A responsive Digital Bookstore website developed as a mini project for the Softw
 > - [Preprint @viXra](https://vixra.org/abs/2108.0142)
 > - [Published Paper @IJRASET](https://doi.org/10.22214/ijraset.2021.36609)
 
-### 🔗 Resources
+### Resources
 | Resource | Description | Date |
 |:---|:---|:---:|
 | 📚 [Project Repository](https://github.com/Amey-Thakur/DIGITAL-BOOKSTORE) | Complete source code and documentation | May 2021 |
@@ -221,12 +221,12 @@ SE-specific quizzes conducted during the course:
 
 | Quiz | Topics | Marks | Resource |
 |:---|:---|:---:|:-:|
-| Quiz 1 | Chapter 1: Introduction to SE | 10/10 | [📄](Quizzes/SE%20Quiz%201%20-%20Chapter%20No%201_TE_B_FH%202021.pdf) |
-| Quiz 2 | Chapter 2: Requirement Modelling | 10/10 | [📄](Quizzes/SE%20Quiz%202%20-%20Chapter%20No%202_TE_B_FH%202021.pdf) |
-| Quiz 3 | Chapter 3: Project Scheduling and Tracking | 10/10 | [📄](Quizzes/SE%20Quiz%203%20-%20Chapter%20No%203_TE_B_FH%202021.pdf) |
-| Quiz 4 | Chapter 4: Software Design | 10/10 | [📄](Quizzes/SE%20Quiz%204%20-%20Chapter%20No%204_TE_B_FH%202021.pdf) |
-| Quiz 5 | Chapter 5: Risk Management and Configuration Management | 10/10 | [📄](Quizzes/SE%20Quiz%205%20-%20Chapter%20No%205_TE_B_FH%202021.pdf) |
-| Quiz 6 | Chapter 6: Software Testing and Maintenance | 10/10 | [📄](Quizzes/SE%20Quiz%206%20-%20Chapter%20No%206_TE_B_FH%202021.pdf) |
+| Quiz 1 | Chapter 1: Introduction to SE | 10/10 | [View](Quizzes/SE%20Quiz%201%20-%20Chapter%20No%201_TE_B_FH%202021.pdf) |
+| Quiz 2 | Chapter 2: Requirement Modelling | 10/10 | [View](Quizzes/SE%20Quiz%202%20-%20Chapter%20No%202_TE_B_FH%202021.pdf) |
+| Quiz 3 | Chapter 3: Project Scheduling and Tracking | 10/10 | [View](Quizzes/SE%20Quiz%203%20-%20Chapter%20No%203_TE_B_FH%202021.pdf) |
+| Quiz 4 | Chapter 4: Software Design | 10/10 | [View](Quizzes/SE%20Quiz%204%20-%20Chapter%20No%204_TE_B_FH%202021.pdf) |
+| Quiz 5 | Chapter 5: Risk Management and Configuration Management | 10/10 | [View](Quizzes/SE%20Quiz%205%20-%20Chapter%20No%205_TE_B_FH%202021.pdf) |
+| Quiz 6 | Chapter 6: Software Testing and Maintenance | 10/10 | [View](Quizzes/SE%20Quiz%206%20-%20Chapter%20No%206_TE_B_FH%202021.pdf) |
 
 ---
 
@@ -239,7 +239,7 @@ Technical mock test conducted for placement preparation:
 
 | Resource | Description | Link |
 |:---|:---|:-:|
-| **Technical Mock Test** | Campus Corners Mock Test for Terna Engineering College | [📄 View](Technical%20Mock%20Test-%20For%20Terna%20Engineering%20College%20by%20Campus%20Corners!.pdf) |
+| **Technical Mock Test** | Campus Corners Mock Test for Terna Engineering College | [View](Technical%20Mock%20Test-%20For%20Terna%20Engineering%20College%20by%20Campus%20Corners!.pdf) |
 
 ---
 
@@ -254,22 +254,22 @@ Internal assessment evaluations conducted during the course:
 
 | Resource | Description | Marks |
 |:---|:---|:---:|
-| [📄 Question Paper](Internal%20Assessment%20Test/29Software%20Engg_IA%201_Descriptive%20Question.pdf) | SE Internal Assessment Test 1 Question Paper | — |
-| [📄 MCQ](Internal%20Assessment%20Test/SE-MCQ.png) | SE Internal Assessment Test 1 MCQ | 10/10 |
-| [📄 Answer Sheet](Internal%20Assessment%20Test/Amey_B-50_SE_IAT-1.pdf) | SE Internal Assessment Test 1 Answer Sheet | 19/20 |
+| [Question Paper](Internal%20Assessment%20Test/29Software%20Engg_IA%201_Descriptive%20Question.pdf) | SE Internal Assessment Test 1 Question Paper | — |
+| [MCQ](Internal%20Assessment%20Test/SE-MCQ.png) | SE Internal Assessment Test 1 MCQ | 10/10 |
+| [Answer Sheet](Internal%20Assessment%20Test/Amey_B-50_SE_IAT-1.pdf) | SE Internal Assessment Test 1 Answer Sheet | 19/20 |
 
 ### IAT - 2
 
 | Resource | Description | Marks |
 |:---|:---|:---:|
-| [📄 Answer Sheet](Internal%20Assessment%20Test/Amey_B-50_SE_IAT-2.pdf) | SE Internal Assessment Test 2 Answer Sheet | — |
+| [Answer Sheet](Internal%20Assessment%20Test/Amey_B-50_SE_IAT-2.pdf) | SE Internal Assessment Test 2 Answer Sheet | — |
 
 **Additional Resources:**
 
 | Resource | Description | Link |
 |:---|:---|:-:|
-| Marksheet | IA1 Marksheet (TE COMP B) | [📄 View](Internal%20Assessment%20Test/SE_IA1_marksheet_TE%20COMP%20B_FH%202021.pdf) |
-| Answer Sheet Template | IAT Answer Sheet Template | [📄 View](Internal%20Assessment%20Test/SE.pdf) |
+| Marksheet | IA1 Marksheet (TE COMP B) | [View](Internal%20Assessment%20Test/SE_IA1_marksheet_TE%20COMP%20B_FH%202021.pdf) |
+| Answer Sheet Template | IAT Answer Sheet Template | [View](Internal%20Assessment%20Test/SE.pdf) |
 
 ---
 
@@ -285,9 +285,9 @@ Final semester examination submission:
 
 | Resource | Description | Date |
 |:---|:---|:---:|
-| [📄 MCQ](Semester%20Exam/MCQ.pdf) | SE Semester Exam MCQ Paper | June 02, 2021 |
-| [📄 Question 2](Semester%20Exam/Q2_61021145_SE.pdf) | SE Semester Exam Answer Sheet | June 02, 2021 |
-| [📄 Question 3](Semester%20Exam/Q3_61021145_SE.pdf) | SE Semester Exam Answer Sheet | June 02, 2021 |
+| [MCQ](Semester%20Exam/MCQ.pdf) | SE Semester Exam MCQ Paper | June 02, 2021 |
+| [Question 2](Semester%20Exam/Q2_61021145_SE.pdf) | SE Semester Exam Answer Sheet | June 02, 2021 |
+| [Question 3](Semester%20Exam/Q3_61021145_SE.pdf) | SE Semester Exam Answer Sheet | June 02, 2021 |
 
 **Additional Resources:**
 
@@ -307,22 +307,22 @@ Previous year university question papers:
 
 | Exam Session | Syllabus | Resource |
 |:---|:---:|:-:|
-| May 2019 | CBCGS | [📄](Question%20Papers/2019/MAY/TE%20SEM%20VI%20COM%20MAY%202019.pdf) |
-| December 2019 | CBCGS | [📄](Question%20Papers/2019/DEC/TE%20COM%20SEM-VI%20DEC%202019..pdf) |
-| May 2018 | CBCGS | [📄](Question%20Papers/2018/MAY/TE%20COME%20SEM-VI%20Rev%20May%202018.pdf) |
-| December 2018 | CBCGS | [📄](Question%20Papers/2018/DEC/TE%20COM%20SEM%20VI%20DEC%202018.pdf) |
-| May 2017 | CBCGS | [📄](Question%20Papers/2017/MAY/TE%20COMPUTER%20SEM%206.pdf) |
-| December 2017 | CBCGS | [📄](Question%20Papers/2017/DEC/TE%20COM%20SEM%20VI%20DEC%202017.pdf) |
-| May 2016 | CBCGS | [📄](Question%20Papers/2016/MAY/TE%20COM%20SEM%20VI%20MAY%202016.pdf) |
-| December 2016 | CBCGS | [📄](Question%20Papers/2016/DEC/TE%20Sem%20VI%20DEC%202016%20COMPUTER.pdf) |
-| May 2015 | CBGS | [📄](Question%20Papers/2015/MAY/T%20E%20Sem%20Sem%20VI%20%20MAY%202015%20COMPUTER.pdf) |
-| December 2015 | CBGS | [📄](Question%20Papers/2015/DEC/TE%20COM%20SEM%20VI%20DEC%202015.pdf) |
-| May 2014 | CBGS | [📄](Question%20Papers/2014/MAY/TE%20SE%20SemVI%20Com%20MAY%202014.pdf) |
-| December 2014 | CBGS | [📄](Question%20Papers/2014/DEC/TE%20SemVI%20Com%20Dec%202014.pdf) |
-| May 2013 | CBGS | [📄](Question%20Papers/2013/MAY/TE%20Computer%20Sem%20VI%20Rev%20May2013.pdf) |
-| December 2013 | CBGS | [📄](Question%20Papers/2013/DEC/TE%20Computer%20Sem%20VI%20Rev%20Dec2013.pdf) |
-| May 2012 | CBGS | [📄](Question%20Papers/2012/MAY/T.E.Computer%20Sem-VI%20Rev%20May%202012.pdf) |
-| December 2012 | CBGS | [📄](Question%20Papers/2012/DEC/T.E.Computer.Sem-VI.Rev%20Dec-2012.pdf) |
+| May 2019 | CBCGS | [View](Question%20Papers/2019/MAY/TE%20SEM%20VI%20COM%20MAY%202019.pdf) |
+| December 2019 | CBCGS | [View](Question%20Papers/2019/DEC/TE%20COM%20SEM-VI%20DEC%202019..pdf) |
+| May 2018 | CBCGS | [View](Question%20Papers/2018/MAY/TE%20COME%20SEM-VI%20Rev%20May%202018.pdf) |
+| December 2018 | CBCGS | [View](Question%20Papers/2018/DEC/TE%20COM%20SEM%20VI%20DEC%202018.pdf) |
+| May 2017 | CBCGS | [View](Question%20Papers/2017/MAY/TE%20COMPUTER%20SEM%206.pdf) |
+| December 2017 | CBCGS | [View](Question%20Papers/2017/DEC/TE%20COM%20SEM%20VI%20DEC%202017.pdf) |
+| May 2016 | CBCGS | [View](Question%20Papers/2016/MAY/TE%20COM%20SEM%20VI%20MAY%202016.pdf) |
+| December 2016 | CBCGS | [View](Question%20Papers/2016/DEC/TE%20Sem%20VI%20DEC%202016%20COMPUTER.pdf) |
+| May 2015 | CBGS | [View](Question%20Papers/2015/MAY/T%20E%20Sem%20Sem%20VI%20%20MAY%202015%20COMPUTER.pdf) |
+| December 2015 | CBGS | [View](Question%20Papers/2015/DEC/TE%20COM%20SEM%20VI%20DEC%202015.pdf) |
+| May 2014 | CBGS | [View](Question%20Papers/2014/MAY/TE%20SE%20SemVI%20Com%20MAY%202014.pdf) |
+| December 2014 | CBGS | [View](Question%20Papers/2014/DEC/TE%20SemVI%20Com%20Dec%202014.pdf) |
+| May 2013 | CBGS | [View](Question%20Papers/2013/MAY/TE%20Computer%20Sem%20VI%20Rev%20May2013.pdf) |
+| December 2013 | CBGS | [View](Question%20Papers/2013/DEC/TE%20Computer%20Sem%20VI%20Rev%20Dec2013.pdf) |
+| May 2012 | CBGS | [View](Question%20Papers/2012/MAY/T.E.Computer%20Sem-VI%20Rev%20May%202012.pdf) |
+| December 2012 | CBGS | [View](Question%20Papers/2012/DEC/T.E.Computer.Sem-VI.Rev%20Dec-2012.pdf) |
 
 ---
 
@@ -335,7 +335,7 @@ Course completion documentation:
 
 | Document | Description | Link |
 |:---|:---|:-:|
-| **Submission Report** | Final coursework submission report | [📋 View](Submission%20Report/Amey_B-50_SE_Term_Work_Submission_Report.pdf) |
+| **Submission Report** | Final coursework submission report | [View](Submission%20Report/Amey_B-50_SE_Term_Work_Submission_Report.pdf) |
 
 ---
 
@@ -344,7 +344,7 @@ Course completion documentation:
      ========================================================================================= -->
 ## Syllabus
 
-> 📋 **[Official CBCGS Syllabus](Syllabus/TE%20BE%20Comp%20Engg%20CBCGS%20Syllabus.pdf)**  
+> **[Official CBCGS Syllabus](Syllabus/TE%20BE%20Comp%20Engg%20CBCGS%20Syllabus.pdf)**  
 > Complete Third Year Computer Engineering syllabus document from the University of Mumbai, including detailed course outcomes, assessment criteria, and module specifications for SE and SE Lab.
 
 > [!IMPORTANT]
@@ -412,13 +412,13 @@ Special thanks to the mentors and peers whose encouragement, discussions, and su
 <div align="center">
 
   <!-- Footer Navigation -->
-  **[⬆ Back to Top](#software-engineering-and-software-engineering-lab)**
+  **[↑ Back to Top](#software-engineering-and-software-engineering-lab)**
 
-  **[📖 Overview](#overview)** &nbsp;·&nbsp; **[📂 Contents](#repository-contents)** &nbsp;·&nbsp; **[📚 Reference Books](#reference-books)** &nbsp;·&nbsp; **[📝 Personal Preparation](#personal-preparation)** &nbsp;·&nbsp; **[📄 Assignments](#assignments)** &nbsp;·&nbsp; **[🧪 Laboratory](#software-engineering-laboratory)** &nbsp;·&nbsp; **[🎮 Mini Project](#software-engineering-mini-project)** &nbsp;·&nbsp; **[🧠 Quizzes](#quizzes)** &nbsp;·&nbsp; **[🧩 Mock Test](#mock-test)** &nbsp;·&nbsp; **[✏ IAT](#internal-assessment-test)** &nbsp;·&nbsp; **[🎓 Semester Exam](#semester-exam)** &nbsp;·&nbsp; **[📑 Question Papers](#question-papers)** &nbsp;·&nbsp; **[✅ Submission Report](#submission-completion-report)** &nbsp;·&nbsp; **[📋 Syllabus](#syllabus)** &nbsp;·&nbsp; **[📘 Usage Guidelines](#usage-guidelines)** &nbsp;·&nbsp; **[📜 License](#license)** &nbsp;·&nbsp; **[ℹ About](#about-this-repository)** &nbsp;·&nbsp; **[🙏🏻 Acknowledgments](#acknowledgments)**
+  **[Overview](#overview)** &nbsp;·&nbsp; **[Contents](#repository-contents)** &nbsp;·&nbsp; **[Reference Books](#reference-books)** &nbsp;·&nbsp; **[Personal Preparation](#personal-preparation)** &nbsp;·&nbsp; **[Assignments](#assignments)** &nbsp;·&nbsp; **[Laboratory](#software-engineering-laboratory)** &nbsp;·&nbsp; **[Mini Project](#software-engineering-mini-project)** &nbsp;·&nbsp; **[Quizzes](#quizzes)** &nbsp;·&nbsp; **[Mock Test](#mock-test)** &nbsp;·&nbsp; **[IAT](#internal-assessment-test)** &nbsp;·&nbsp; **[Semester Exam](#semester-exam)** &nbsp;·&nbsp; **[Question Papers](#question-papers)** &nbsp;·&nbsp; **[Submission Report](#submission-completion-report)** &nbsp;·&nbsp; **[Syllabus](#syllabus)** &nbsp;·&nbsp; **[Usage Guidelines](#usage-guidelines)** &nbsp;·&nbsp; **[License](#license)** &nbsp;·&nbsp; **[About](#about-this-repository)** &nbsp;·&nbsp; **[Acknowledgments](#acknowledgments)**
 
   <br>
 
-  **[🧪 Software Engineering Lab](Software%20Engineering%20Lab/README.md)** &nbsp;·&nbsp; **[📚 Digital Bookstore](https://github.com/Amey-Thakur/DIGITAL-BOOKSTORE)**
+  **[Software Engineering Lab](Software%20Engineering%20Lab/README.md)** &nbsp;·&nbsp; **[Digital Bookstore](https://github.com/Amey-Thakur/DIGITAL-BOOKSTORE)**
 
 </div>
 
