@@ -333,9 +333,9 @@ Previous year university question papers:
 
 Course completion documentation:
 
-| Document | Description | Link |
-|:---|:---|:-:|
-| **Submission Report** | Final coursework submission report | [View](Submission%20Report/Amey_B-50_SE_Term_Work_Submission_Report.pdf) |
+| Document | Description |
+|:---|:---|
+| [**Submission Report**](Submission%20Report/Amey_B-50_SE_Term_Work_Submission_Report.pdf) | Final coursework submission report |
 
 ---
 
