@@ -25,7 +25,7 @@
 > **Lab Manual**: This directory contains comprehensive reports for all experiments conducted during the course. For the final Mini Project, please visit the [**Mini Project Section**](../README.md#software-engineering-mini-project) in the main repository.
 
 > [!WARNING]
-> **Document Formats**: Lab reports are provided in both PDF (for viewing) and DOCX (for editing). Ensure you have appropriate software to view/edit these formats. When submitting, always verify formatting is preserved in the final document.
+> **UML Diagram Consistency**: When creating UML diagrams (Use Case, Class, Sequence, Activity, State), ensure all components are consistent with your SRS document. Classes in your Class Diagram should match entities in your Data Dictionary, and all Use Cases should trace back to functional requirements. Inconsistencies between diagrams are a common source of marks deduction.
 
 ---
 
