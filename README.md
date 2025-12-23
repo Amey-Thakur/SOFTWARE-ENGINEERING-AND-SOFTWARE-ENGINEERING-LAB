@@ -287,18 +287,18 @@ Internal assessment evaluations conducted during the course:
 
 Final semester examination submission:
 
-| Resource | Description | Date |
-|:---|:---|:---:|
-| [MCQ](Semester%20Exam/MCQ.pdf) | SE Semester Exam MCQ Paper | June 02, 2021 |
-| [Question 2](Semester%20Exam/Q2_61021145_SE.pdf) | SE Semester Exam Answer Sheet | June 02, 2021 |
-| [Question 3](Semester%20Exam/Q3_61021145_SE.pdf) | SE Semester Exam Answer Sheet | June 02, 2021 |
+| # | Resource | Description | Date |
+|:-:|:---|:---|:---:|
+| 1 | [MCQ](Semester%20Exam/MCQ.pdf) | SE Semester Exam MCQ Paper | June 02, 2021 |
+| 2 | [Question 2](Semester%20Exam/Q2_61021145_SE.pdf) | SE Semester Exam Answer Sheet | June 02, 2021 |
+| 3 | [Question 3](Semester%20Exam/Q3_61021145_SE.pdf) | SE Semester Exam Answer Sheet | June 02, 2021 |
 
 **Additional Resources:**
 
-| Resource | Link |
-|:---|:-:|
-| Answer Sheet Template | [View](Semester%20Exam/ANSWER%20SHEET%20-%20SE.docx) |
-| SE Questions | [View](Semester%20Exam/SE_QUESTIONS.docx) |
+| # | Resource | Link |
+|:-:|:---|:-:|
+| 1 | Answer Sheet Template | [View](Semester%20Exam/ANSWER%20SHEET%20-%20SE.docx) |
+| 2 | SE Questions | [View](Semester%20Exam/SE_QUESTIONS.docx) |
 
 ---
 
@@ -309,24 +309,24 @@ Final semester examination submission:
 
 Previous year university question papers:
 
-| Exam Session | Syllabus | Resource |
-|:---|:---:|:-:|
-| May 2019 | CBCGS | [View](Question%20Papers/2019/MAY/TE%20SEM%20VI%20COM%20MAY%202019.pdf) |
-| December 2019 | CBCGS | [View](Question%20Papers/2019/DEC/TE%20COM%20SEM-VI%20DEC%202019..pdf) |
-| May 2018 | CBCGS | [View](Question%20Papers/2018/MAY/TE%20COME%20SEM-VI%20Rev%20May%202018.pdf) |
-| December 2018 | CBCGS | [View](Question%20Papers/2018/DEC/TE%20COM%20SEM%20VI%20DEC%202018.pdf) |
-| May 2017 | CBCGS | [View](Question%20Papers/2017/MAY/TE%20COMPUTER%20SEM%206.pdf) |
-| December 2017 | CBCGS | [View](Question%20Papers/2017/DEC/TE%20COM%20SEM%20VI%20DEC%202017.pdf) |
-| May 2016 | CBCGS | [View](Question%20Papers/2016/MAY/TE%20COM%20SEM%20VI%20MAY%202016.pdf) |
-| December 2016 | CBCGS | [View](Question%20Papers/2016/DEC/TE%20Sem%20VI%20DEC%202016%20COMPUTER.pdf) |
-| May 2015 | CBGS | [View](Question%20Papers/2015/MAY/T%20E%20Sem%20Sem%20VI%20%20MAY%202015%20COMPUTER.pdf) |
-| December 2015 | CBGS | [View](Question%20Papers/2015/DEC/TE%20COM%20SEM%20VI%20DEC%202015.pdf) |
-| May 2014 | CBGS | [View](Question%20Papers/2014/MAY/TE%20SE%20SemVI%20Com%20MAY%202014.pdf) |
-| December 2014 | CBGS | [View](Question%20Papers/2014/DEC/TE%20SemVI%20Com%20Dec%202014.pdf) |
-| May 2013 | CBGS | [View](Question%20Papers/2013/MAY/TE%20Computer%20Sem%20VI%20Rev%20May2013.pdf) |
-| December 2013 | CBGS | [View](Question%20Papers/2013/DEC/TE%20Computer%20Sem%20VI%20Rev%20Dec2013.pdf) |
-| May 2012 | CBGS | [View](Question%20Papers/2012/MAY/T.E.Computer%20Sem-VI%20Rev%20May%202012.pdf) |
-| December 2012 | CBGS | [View](Question%20Papers/2012/DEC/T.E.Computer.Sem-VI.Rev%20Dec-2012.pdf) |
+| # | Exam Session | Syllabus | Resource |
+|:-:|:---|:---:|:-:|
+| 1 | May 2019 | CBCGS | [View](Question%20Papers/2019/MAY/TE%20SEM%20VI%20COM%20MAY%202019.pdf) |
+| 2 | December 2019 | CBCGS | [View](Question%20Papers/2019/DEC/TE%20COM%20SEM-VI%20DEC%202019..pdf) |
+| 3 | May 2018 | CBCGS | [View](Question%20Papers/2018/MAY/TE%20COME%20SEM-VI%20Rev%20May%202018.pdf) |
+| 4 | December 2018 | CBCGS | [View](Question%20Papers/2018/DEC/TE%20COM%20SEM%20VI%20DEC%202018.pdf) |
+| 5 | May 2017 | CBCGS | [View](Question%20Papers/2017/MAY/TE%20COMPUTER%20SEM%206.pdf) |
+| 6 | December 2017 | CBCGS | [View](Question%20Papers/2017/DEC/TE%20COM%20SEM%20VI%20DEC%202017.pdf) |
+| 7 | May 2016 | CBCGS | [View](Question%20Papers/2016/MAY/TE%20COM%20SEM%20VI%20MAY%202016.pdf) |
+| 8 | December 2016 | CBCGS | [View](Question%20Papers/2016/DEC/TE%20Sem%20VI%20DEC%202016%20COMPUTER.pdf) |
+| 9 | May 2015 | CBGS | [View](Question%20Papers/2015/MAY/T%20E%20Sem%20Sem%20VI%20%20MAY%202015%20COMPUTER.pdf) |
+| 10 | December 2015 | CBGS | [View](Question%20Papers/2015/DEC/TE%20COM%20SEM%20VI%20DEC%202015.pdf) |
+| 11 | May 2014 | CBGS | [View](Question%20Papers/2014/MAY/TE%20SE%20SemVI%20Com%20MAY%202014.pdf) |
+| 12 | December 2014 | CBGS | [View](Question%20Papers/2014/DEC/TE%20SemVI%20Com%20Dec%202014.pdf) |
+| 13 | May 2013 | CBGS | [View](Question%20Papers/2013/MAY/TE%20Computer%20Sem%20VI%20Rev%20May2013.pdf) |
+| 14 | December 2013 | CBGS | [View](Question%20Papers/2013/DEC/TE%20Computer%20Sem%20VI%20Rev%20Dec2013.pdf) |
+| 15 | May 2012 | CBGS | [View](Question%20Papers/2012/MAY/T.E.Computer%20Sem-VI%20Rev%20May%202012.pdf) |
+| 16 | December 2012 | CBGS | [View](Question%20Papers/2012/DEC/T.E.Computer.Sem-VI.Rev%20Dec-2012.pdf) |
 
 ---
 
