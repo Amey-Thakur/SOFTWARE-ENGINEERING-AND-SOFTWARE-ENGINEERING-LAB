@@ -152,9 +152,9 @@ The laboratory component (CSL601) focuses on hands-on implementation of software
 
 ### Laboratory Documentation
 
-| Resource | Description |
-|:---|:---|
-| [Lab README](Software%20Engineering%20Lab/README.md) | Detailed navigation guide with program descriptions |
+| # | Resource | Description |
+|:-:|:---|:---|
+| 1 | [Lab README](Software%20Engineering%20Lab/README.md) | Detailed navigation guide with program descriptions |
 
 ---
 
