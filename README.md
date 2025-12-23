@@ -96,11 +96,11 @@ This collection includes **comprehensive reference materials** covering all majo
 
 Study materials and planning resources for effective exam preparation:
 
-| Resource | Description |
-|:---|:---|
-| [Blueprint](Blueprint%20(SE).png) | SE exam blueprint and marking scheme |
-| [Semester 6 Timetable](SEMESTER%20VI.jpeg) | Academic schedule for Semester VI |
-| [Computer Semester 6 Timetable](Computer%20Semester%206%20Timetable.pdf) | Detailed computer engineering timetable |
+| # | Resource | Description |
+|:-:|:---|:---|
+| 1 | [Blueprint](Blueprint%20(SE).png) | SE exam blueprint and marking scheme |
+| 2 | [Semester 6 Timetable](SEMESTER%20VI.jpeg) | Academic schedule for Semester VI |
+| 3 | [Computer Semester 6 Timetable](Computer%20Semester%206%20Timetable.pdf) | Detailed computer engineering timetable |
 
 ---
 
