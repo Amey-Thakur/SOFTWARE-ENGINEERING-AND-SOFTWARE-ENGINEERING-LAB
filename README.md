@@ -295,10 +295,10 @@ Final semester examination submission:
 
 **Additional Resources:**
 
-| # | Resource |
-|:-:|:---|
-| 1 | [Answer Sheet Template](Semester%20Exam/ANSWER%20SHEET%20-%20SE.docx) |
-| 2 | [SE Questions](Semester%20Exam/SE_QUESTIONS.docx) |
+| # | Resource | Description |
+|:-:|:---|:---|
+| 1 | [Answer Sheet Template](Semester%20Exam/ANSWER%20SHEET%20-%20SE.docx) | Semester Exam Answer Sheet Template |
+| 2 | [SE Questions](Semester%20Exam/SE_QUESTIONS.docx) | SE Exam Questions Document |
 
 ---
 
