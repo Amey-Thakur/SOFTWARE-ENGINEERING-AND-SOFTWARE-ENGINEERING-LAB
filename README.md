@@ -241,9 +241,9 @@ A responsive Digital Bookstore website developed as a mini project for the Softw
 
 Technical mock test conducted for placement preparation:
 
-| Resource | Description | Link |
-|:---|:---|:-:|
-| **Technical Mock Test** | Campus Corners Mock Test for Terna Engineering College | [View](Technical%20Mock%20Test-%20For%20Terna%20Engineering%20College%20by%20Campus%20Corners!.pdf) |
+| # | Resource | Description |
+|:-:|:---|:---|
+| 1 | [**Technical Mock Test**](Technical%20Mock%20Test-%20For%20Terna%20Engineering%20College%20by%20Campus%20Corners!.pdf) | Campus Corners Mock Test for Terna Engineering College |
 
 ---
 
