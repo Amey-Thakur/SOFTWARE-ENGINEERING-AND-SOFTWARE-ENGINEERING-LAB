@@ -258,22 +258,22 @@ Internal assessment evaluations conducted during the course:
 
 | # | Resource | Description | Marks |
 |:-:|:---|:---|:---:|
-| 1 | [Question Paper](IAT/IAT-1/SE%20IAT-1%20Question%20Paper.pdf) | SE Internal Assessment Test 1 Question Paper | — |
-| 2 | [MCQ](IAT/IAT-1/SE%20IAT-1%20MCQ.pdf) | SE Internal Assessment Test 1 MCQ | 10/10 |
-| 3 | [Answer Sheet](IAT/IAT-1/Amey_B-50_SE_IAT-1.pdf) | SE Internal Assessment Test 1 Answer Sheet | 19/20 |
+| 1 | [Question Paper](Internal%20Assessment%20Test/29Software%20Engg_IA%201_Descriptive%20Question.pdf) | SE Internal Assessment Test 1 Question Paper | — |
+| 2 | [MCQ](Internal%20Assessment%20Test/SE-MCQ.png) | SE Internal Assessment Test 1 MCQ | 10/10 |
+| 3 | [Answer Sheet](Internal%20Assessment%20Test/Amey_B-50_SE_IAT-1.pdf) | SE Internal Assessment Test 1 Answer Sheet | 19/20 |
 
 ### IAT - 2
 
 | # | Resource | Description | Marks |
 |:-:|:---|:---|:---:|
-| 1 | [Answer Sheet](IAT/IAT-2/Amey_B-50_SE_IAT-2.pdf) | SE Internal Assessment Test 2 Answer Sheet | — |
+| 1 | [Answer Sheet](Internal%20Assessment%20Test/Amey_B-50_SE_IAT-2.pdf) | SE Internal Assessment Test 2 Answer Sheet | — |
 
 **Additional Resources:**
 
 | # | Resource | Description | Link |
 |:-:|:---|:---|:-:|
-| 1 | **Marksheet** | IA1 Marksheet (TE COMP B) | [View](IAT/IAT%20Marksheet%20(TE%20COMP%20B).pdf) |
-| 2 | **Answer Sheet Template** | IAT Answer Sheet Template | [View](IAT/IAT%20Answer%20Sheet%20Template.pdf) |
+| 1 | **Marksheet** | IA1 Marksheet (TE COMP B) | [View](Internal%20Assessment%20Test/SE_IA1_marksheet_TE%20COMP%20B_FH%202021.pdf) |
+| 2 | **Answer Sheet Template** | IAT Answer Sheet Template | [View](Internal%20Assessment%20Test/SE.pdf) |
 
 ---
 
