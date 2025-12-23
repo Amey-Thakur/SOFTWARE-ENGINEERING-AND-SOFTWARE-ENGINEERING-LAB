@@ -108,11 +108,11 @@ Study materials and planning resources for effective exam preparation:
 
 Academic assignments for comprehensive learning and practice:
 
-| # | Assignment | Description | Date | Marks | Link |
-|:-:|:---|:---|:---:|:---:|:-:|
-| 1 | **Assignment 1** | Agile Methodology, Waterfall & Spiral Models, Requirements Engineering | March 20, 2021 | 9/10 | [View](Assignments/Amey_B-50_SE_Assignment-1.pdf) |
-| 2 | **Assignment 2** | Software Design Concepts, Cohesion & Coupling, Risk Management (RMMM) | April 10, 2021 | 10/10 | [View](Assignments/Amey_B-50_SE_Assignment-2.pdf) |
-| 3 | **Assignment 3** | UML Diagrams (Component & Deployment) for Library Management System | April 25, 2021 | 9/10 | [View](Assignments/Amey_B-50_SE_Assignment-3.pdf) |
+| # | Assignment | Description | Date | Marks |
+|:-:|:---|:---|:---:|:---:|
+| 1 | [**Assignment 1**](Assignments/Amey_B-50_SE_Assignment-1.pdf) | Agile Methodology, Waterfall & Spiral Models, Requirements Engineering | March 20, 2021 | 9/10 |
+| 2 | [**Assignment 2**](Assignments/Amey_B-50_SE_Assignment-2.pdf) | Software Design Concepts, Cohesion & Coupling, Risk Management (RMMM) | April 10, 2021 | 10/10 |
+| 3 | [**Assignment 3**](Assignments/Amey_B-50_SE_Assignment-3.pdf) | UML Diagrams (Component & Deployment) for Library Management System | April 25, 2021 | 9/10 |
 
 **Topics Covered**: Agile Methodology & Principles · Waterfall and Spiral Process Models · Requirements Engineering & Gathering Techniques · Software Design Fundamentals · Cohesion and Coupling · Risk Management (RMMM Plan) · UML Component & Deployment Diagrams
 
