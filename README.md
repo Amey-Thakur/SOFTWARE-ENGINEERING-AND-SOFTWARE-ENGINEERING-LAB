@@ -221,12 +221,12 @@ A responsive Digital Bookstore website developed as a mini project for the Softw
 > - [Published Paper @IJRASET](https://doi.org/10.22214/ijraset.2021.36609)
 
 ### Resources
-| Resource | Description | Date | Link |
-|:---|:---|:---:|:-:|
-| Project Repository | Complete source code and documentation | May 2021 | [View](https://github.com/Amey-Thakur/DIGITAL-BOOKSTORE) |
-| Project Demo (YouTube) | Real-time demonstration of features | May 2021 | [View](https://youtu.be/JuUix8olOC8) |
-| Project Timeline | Project execution schedule and milestones | March 2021 | [View](Amey_B-50_Software_Engineering_Mini_Project_Timeline.pdf) |
-| Publication Certificate | Recognition for project excellence | July 2021 | [View](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Research%20Papers/Digital%20Bookstore/IJRASET36609%20-%20Digital%20Bookstore.pdf) |
+| # | Resource | Description | Date | Link |
+|:-:|:---|:---|:---:|:-:|
+| 1 | Project Repository | Complete source code and documentation | May 2021 | [View](https://github.com/Amey-Thakur/DIGITAL-BOOKSTORE) |
+| 2 | Project Demo (YouTube) | Real-time demonstration of features | May 2021 | [View](https://youtu.be/JuUix8olOC8) |
+| 3 | Project Timeline | Project execution schedule and milestones | March 2021 | [View](Amey_B-50_Software_Engineering_Mini_Project_Timeline.pdf) |
+| 4 | Publication Certificate | Recognition for project excellence | July 2021 | [View](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Research%20Papers/Digital%20Bookstore/IJRASET36609%20-%20Digital%20Bookstore.pdf) |
 
 ---
 
