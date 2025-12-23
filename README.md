@@ -135,20 +135,20 @@ The laboratory component (CSL601) focuses on hands-on implementation of software
 > [!TIP]
 > **Lab Manual**: For the complete experiment documentation and detailed UML diagrams of each experiment, visit the [**Software Engineering Lab**](Software%20Engineering%20Lab/) directory.
 
-| # | Experiment Name | Description | Date | Marks | Resource |
+| # | Experiment Name | Description | Date | Marks | Report |
 |:-:|:---|:---|:---:|:---:|:-:|
-| 1 | **Problem Statement & Process Model** | Prepare detailed problem statement and identify suitable process model with justification | February 06, 2021 | 9/10 | [📄](Software%20Engineering%20Lab/Amey_B-50_Software_Engineering_Lab_Experiment-1.pdf) |
-| 2 | **SRS Document** | Prepare Software Requirement Specification document (IEEE format) | February 13, 2021 | 9/10 | [📄](Software%20Engineering%20Lab/Amey_B-50_Software_Engineering_Lab_Experiment-2.pdf) |
-| 3 | **DFD & Data Dictionary** | Draw DFD (up to 2 levels) and prepare Data Dictionary | February 19, 2021 | 9/10 | [📄](Software%20Engineering%20Lab/Amey_B-50_Software_Engineering_Lab_Experiment-3.pdf) |
-| 4 | **Use Case Diagrams** | Identify scenarios & develop UML Use Case diagram | February 25, 2021 | 9/10 | [📄](Software%20Engineering%20Lab/Amey_B-50_Software_Engineering_Lab_Experiment-4.pdf) |
-| 5 | **Class Diagrams** | Develop UML Class Diagram for the mini-project | March 21, 2021 | 9/10 | [📄](Software%20Engineering%20Lab/Amey_B-50_Software_Engineering_Lab_Experiment-5.pdf) |
-| 6 | **Sequence & Collaboration** | Develop Sequence and Collaboration diagrams | March 22, 2021 | 9/10 | [📄](Software%20Engineering%20Lab/Amey_B-50_Software_Engineering_Lab_Experiment-6.pdf) |
-| 7 | **Activity & State Diagrams** | Develop Activity / State Transition diagrams | March 22, 2021 | 9/10 | [📄](Software%20Engineering%20Lab/Amey_B-50_Software_Engineering_Lab_Experiment-7.pdf) |
-| 8 | **Project Management Tools** | Schedule project plan using Gantt Chart, CPM, and EVA | March 30, 2021 | 9/10 | [📄](Software%20Engineering%20Lab/Amey_B-50_Software_Engineering_Lab_Experiment-8.pdf) |
-| 9 | **COCOMO Estimation** | Estimation of project metrics using COCOMO | April 01, 2021 | 10/10 | [📄](Software%20Engineering%20Lab/Amey_B-50_Software_Engineering_Lab_Experiment-9.pdf) |
-| 10 | **UI Design** | Design User Interface for the mini-project | April 14, 2021 | 9/10 | [📄](Software%20Engineering%20Lab/Amey_B-50_Software_Engineering_Lab_Experiment-10.pdf) |
-| 11 | **RMMM Plan** | Prepare Risk Mitigation, Monitoring & Management Plan | April 23, 2021 | 9/10 | [📄](Software%20Engineering%20Lab/Amey_B-50_Software_Engineering_Lab_Experiment-11.pdf) |
-| 12 | **Software Testing** | White box, Black box testing and Test case development | May 06, 2021 | 9/10 | [📄](Software%20Engineering%20Lab/Amey_B-50_Software_Engineering_Lab_Experiment-12.pdf) |
+| 1 | **Problem Statement & Process Model** | Prepare detailed problem statement and identify suitable process model with justification | February 06, 2021 | 9/10 | [View](Software%20Engineering%20Lab/Amey_B-50_Software_Engineering_Lab_Experiment-1.pdf) |
+| 2 | **SRS Document** | Prepare Software Requirement Specification document (IEEE format) | February 13, 2021 | 9/10 | [View](Software%20Engineering%20Lab/Amey_B-50_Software_Engineering_Lab_Experiment-2.pdf) |
+| 3 | **DFD & Data Dictionary** | Draw DFD (up to 2 levels) and prepare Data Dictionary | February 19, 2021 | 9/10 | [View](Software%20Engineering%20Lab/Amey_B-50_Software_Engineering_Lab_Experiment-3.pdf) |
+| 4 | **Use Case Diagrams** | Identify scenarios & develop UML Use Case diagram | February 25, 2021 | 9/10 | [View](Software%20Engineering%20Lab/Amey_B-50_Software_Engineering_Lab_Experiment-4.pdf) |
+| 5 | **Class Diagrams** | Develop UML Class Diagram for the mini-project | March 21, 2021 | 9/10 | [View](Software%20Engineering%20Lab/Amey_B-50_Software_Engineering_Lab_Experiment-5.pdf) |
+| 6 | **Sequence & Collaboration** | Develop Sequence and Collaboration diagrams | March 22, 2021 | 9/10 | [View](Software%20Engineering%20Lab/Amey_B-50_Software_Engineering_Lab_Experiment-6.pdf) |
+| 7 | **Activity & State Diagrams** | Develop Activity / State Transition diagrams | March 22, 2021 | 9/10 | [View](Software%20Engineering%20Lab/Amey_B-50_Software_Engineering_Lab_Experiment-7.pdf) |
+| 8 | **Project Management Tools** | Schedule project plan using Gantt Chart, CPM, and EVA | March 30, 2021 | 9/10 | [View](Software%20Engineering%20Lab/Amey_B-50_Software_Engineering_Lab_Experiment-8.pdf) |
+| 9 | **COCOMO Estimation** | Estimation of project metrics using COCOMO | April 01, 2021 | 10/10 | [View](Software%20Engineering%20Lab/Amey_B-50_Software_Engineering_Lab_Experiment-9.pdf) |
+| 10 | **UI Design** | Design User Interface for the mini-project | April 14, 2021 | 9/10 | [View](Software%20Engineering%20Lab/Amey_B-50_Software_Engineering_Lab_Experiment-10.pdf) |
+| 11 | **RMMM Plan** | Prepare Risk Mitigation, Monitoring & Management Plan | April 23, 2021 | 9/10 | [View](Software%20Engineering%20Lab/Amey_B-50_Software_Engineering_Lab_Experiment-11.pdf) |
+| 12 | **Software Testing** | White box, Black box testing and Test case development | May 06, 2021 | 9/10 | [View](Software%20Engineering%20Lab/Amey_B-50_Software_Engineering_Lab_Experiment-12.pdf) |
 
 ### Laboratory Documentation
 
