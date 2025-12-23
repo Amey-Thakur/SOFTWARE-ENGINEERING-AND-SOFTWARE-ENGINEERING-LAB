@@ -15,7 +15,7 @@
 
   ---
 
-  **[📝 Exp 1](#-experiment-1-problem-statement--process-model)** &nbsp;·&nbsp; **[📄 Exp 2](#-experiment-2-srs-document)** &nbsp;·&nbsp; **[💾 Exp 3](#-experiment-3-dfd--data-dictionary)** &nbsp;·&nbsp; **[🎭 Exp 4](#-experiment-4-use-case-diagrams)** &nbsp;·&nbsp; **[🏗️ Exp 5](#-experiment-5-class-diagrams)** &nbsp;·&nbsp; **[🔄 Exp 6](#-experiment-6-sequence--collaboration)** &nbsp;·&nbsp; **[🚦 Exp 7](#-experiment-7-activity--state-diagrams)** &nbsp;·&nbsp; **[📊 Exp 8](#-experiment-8-project-management-tools)** &nbsp;·&nbsp; **[💰 Exp 9](#-experiment-9-cocomo-estimation)** &nbsp;·&nbsp; **[🖥️ Exp 10](#-experiment-10-ui-design)** &nbsp;·&nbsp; **[🛡️ Exp 11](#-experiment-11-rmmm-plan)** &nbsp;·&nbsp; **[🧪 Exp 12](#-experiment-12-software-testing)**
+  **[Experiment 1](#experiment-1-problem-statement--process-model)** &nbsp;·&nbsp; **[Experiment 2](#experiment-2-srs-document)** &nbsp;·&nbsp; **[Experiment 3](#experiment-3-dfd--data-dictionary)** &nbsp;·&nbsp; **[Experiment 4](#experiment-4-use-case-diagrams)** &nbsp;·&nbsp; **[Experiment 5](#experiment-5-class-diagrams)** &nbsp;·&nbsp; **[Experiment 6](#experiment-6-sequence--collaboration)** &nbsp;·&nbsp; **[Experiment 7](#experiment-7-activity--state-diagrams)** &nbsp;·&nbsp; **[Experiment 8](#experiment-8-project-management-tools)** &nbsp;·&nbsp; **[Experiment 9](#experiment-9-cocomo-estimation)** &nbsp;·&nbsp; **[Experiment 10](#experiment-10-ui-design)** &nbsp;·&nbsp; **[Experiment 11](#experiment-11-rmmm-plan)** &nbsp;·&nbsp; **[Experiment 12](#experiment-12-software-testing)**
 
 </div>
 
@@ -29,168 +29,168 @@
 <!-- =========================================================================================
                                      EXPERIMENT 1
      ========================================================================================= -->
-## 📝 Experiment 1: Problem Statement & Process Model
+## Experiment 1: Problem Statement & Process Model
 
 Prepare detailed problem statement and identify suitable process model with justification.
 
-| Format | Document | Description | Link |
-|:---:|:---|:---|:-:|
-| 📄 | [Lab Report (PDF)](Amey_B-50_Software_Engineering_Lab_Experiment-1.pdf) | Detailed experiment report | [View](Amey_B-50_Software_Engineering_Lab_Experiment-1.pdf) |
-| 📝 | [Lab Report (DOCX)](Amey_B-50_Software_Engineering_Lab_Experiment-1.docx) | Editable report file | [Download](Amey_B-50_Software_Engineering_Lab_Experiment-1.docx) |
+| # | Document | Description | Link |
+|:-:|:---|:---|:-:|
+| 1 | Lab Report (PDF) | Detailed experiment report | [View](Amey_B-50_Software_Engineering_Lab_Experiment-1.pdf) |
+| 2 | Lab Report (DOCX) | Editable report file | [Download](Amey_B-50_Software_Engineering_Lab_Experiment-1.docx) |
 
 ---
 
 <!-- =========================================================================================
                                      EXPERIMENT 2
      ========================================================================================= -->
-## 📄 Experiment 2: SRS Document
+## Experiment 2: SRS Document
 
 Prepare Software Requirement Specification document (IEEE format).
 
-| Format | Document | Description | Link |
-|:---:|:---|:---|:-:|
-| 📄 | [Lab Report (PDF)](Amey_B-50_Software_Engineering_Lab_Experiment-2.pdf) | Detailed experiment report | [View](Amey_B-50_Software_Engineering_Lab_Experiment-2.pdf) |
-| 📝 | [Lab Report (DOCX)](Amey_B-50_Software_Engineering_Lab_Experiment-2.docx) | Editable report file | [Download](Amey_B-50_Software_Engineering_Lab_Experiment-2.docx) |
+| # | Document | Description | Link |
+|:-:|:---|:---|:-:|
+| 1 | Lab Report (PDF) | Detailed experiment report | [View](Amey_B-50_Software_Engineering_Lab_Experiment-2.pdf) |
+| 2 | Lab Report (DOCX) | Editable report file | [Download](Amey_B-50_Software_Engineering_Lab_Experiment-2.docx) |
 
 ---
 
 <!-- =========================================================================================
                                      EXPERIMENT 3
      ========================================================================================= -->
-## 💾 Experiment 3: DFD & Data Dictionary
+## Experiment 3: DFD & Data Dictionary
 
 Draw DFD (up to 2 levels) and prepare Data Dictionary.
 
-| Format | Document | Description | Link |
-|:---:|:---|:---|:-:|
-| 📄 | [Lab Report (PDF)](Amey_B-50_Software_Engineering_Lab_Experiment-3.pdf) | Detailed experiment report | [View](Amey_B-50_Software_Engineering_Lab_Experiment-3.pdf) |
-| 📝 | [Lab Report (DOCX)](Amey_B-50_Software_Engineering_Lab_Experiment-3.docx) | Editable report file | [Download](Amey_B-50_Software_Engineering_Lab_Experiment-3.docx) |
+| # | Document | Description | Link |
+|:-:|:---|:---|:-:|
+| 1 | Lab Report (PDF) | Detailed experiment report | [View](Amey_B-50_Software_Engineering_Lab_Experiment-3.pdf) |
+| 2 | Lab Report (DOCX) | Editable report file | [Download](Amey_B-50_Software_Engineering_Lab_Experiment-3.docx) |
 
 ---
 
 <!-- =========================================================================================
                                      EXPERIMENT 4
      ========================================================================================= -->
-## 🎭 Experiment 4: Use Case Diagrams
+## Experiment 4: Use Case Diagrams
 
 Identify scenarios & develop UML Use Case diagram.
 
-| Format | Document | Description | Link |
-|:---:|:---|:---|:-:|
-| 📄 | [Lab Report (PDF)](Amey_B-50_Software_Engineering_Lab_Experiment-4.pdf) | Detailed experiment report | [View](Amey_B-50_Software_Engineering_Lab_Experiment-4.pdf) |
-| 📝 | [Lab Report (DOCX)](Amey_B-50_Software_Engineering_Lab_Experiment-4.docx) | Editable report file | [Download](Amey_B-50_Software_Engineering_Lab_Experiment-4.docx) |
+| # | Document | Description | Link |
+|:-:|:---|:---|:-:|
+| 1 | Lab Report (PDF) | Detailed experiment report | [View](Amey_B-50_Software_Engineering_Lab_Experiment-4.pdf) |
+| 2 | Lab Report (DOCX) | Editable report file | [Download](Amey_B-50_Software_Engineering_Lab_Experiment-4.docx) |
 
 ---
 
 <!-- =========================================================================================
                                      EXPERIMENT 5
      ========================================================================================= -->
-## 🏗️ Experiment 5: Class Diagrams
+## Experiment 5: Class Diagrams
 
 Develop UML Class Diagram for the mini-project.
 
-| Format | Document | Description | Link |
-|:---:|:---|:---|:-:|
-| 📄 | [Lab Report (PDF)](Amey_B-50_Software_Engineering_Lab_Experiment-5.pdf) | Detailed experiment report | [View](Amey_B-50_Software_Engineering_Lab_Experiment-5.pdf) |
-| 📝 | [Lab Report (DOCX)](Amey_B-50_Software_Engineering_Lab_Experiment-5.docx) | Editable report file | [Download](Amey_B-50_Software_Engineering_Lab_Experiment-5.docx) |
+| # | Document | Description | Link |
+|:-:|:---|:---|:-:|
+| 1 | Lab Report (PDF) | Detailed experiment report | [View](Amey_B-50_Software_Engineering_Lab_Experiment-5.pdf) |
+| 2 | Lab Report (DOCX) | Editable report file | [Download](Amey_B-50_Software_Engineering_Lab_Experiment-5.docx) |
 
 ---
 
 <!-- =========================================================================================
                                      EXPERIMENT 6
      ========================================================================================= -->
-## 🔄 Experiment 6: Sequence & Collaboration
+## Experiment 6: Sequence & Collaboration
 
 Develop Sequence and Collaboration diagrams.
 
-| Format | Document | Description | Link |
-|:---:|:---|:---|:-:|
-| 📄 | [Lab Report (PDF)](Amey_B-50_Software_Engineering_Lab_Experiment-6.pdf) | Detailed experiment report | [View](Amey_B-50_Software_Engineering_Lab_Experiment-6.pdf) |
-| 📝 | [Lab Report (DOCX)](Amey_B-50_Software_Engineering_Lab_Experiment-6.docx) | Editable report file | [Download](Amey_B-50_Software_Engineering_Lab_Experiment-6.docx) |
+| # | Document | Description | Link |
+|:-:|:---|:---|:-:|
+| 1 | Lab Report (PDF) | Detailed experiment report | [View](Amey_B-50_Software_Engineering_Lab_Experiment-6.pdf) |
+| 2 | Lab Report (DOCX) | Editable report file | [Download](Amey_B-50_Software_Engineering_Lab_Experiment-6.docx) |
 
 ---
 
 <!-- =========================================================================================
                                      EXPERIMENT 7
      ========================================================================================= -->
-## 🚦 Experiment 7: Activity & State Diagrams
+## Experiment 7: Activity & State Diagrams
 
 Develop Activity / State Transition diagrams.
 
-| Format | Document | Description | Link |
-|:---:|:---|:---|:-:|
-| 📄 | [Lab Report (PDF)](Amey_B-50_Software_Engineering_Lab_Experiment-7.pdf) | Detailed experiment report | [View](Amey_B-50_Software_Engineering_Lab_Experiment-7.pdf) |
-| 📝 | [Lab Report (DOCX)](Amey_B-50_Software_Engineering_Lab_Experiment-7.docx) | Editable report file | [Download](Amey_B-50_Software_Engineering_Lab_Experiment-7.docx) |
+| # | Document | Description | Link |
+|:-:|:---|:---|:-:|
+| 1 | Lab Report (PDF) | Detailed experiment report | [View](Amey_B-50_Software_Engineering_Lab_Experiment-7.pdf) |
+| 2 | Lab Report (DOCX) | Editable report file | [Download](Amey_B-50_Software_Engineering_Lab_Experiment-7.docx) |
 
 ---
 
 <!-- =========================================================================================
                                      EXPERIMENT 8
      ========================================================================================= -->
-## 📊 Experiment 8: Project Management Tools
+## Experiment 8: Project Management Tools
 
 Schedule project plan using Gantt Chart, CPM, and EVA.
 
-| Format | Document | Description | Link |
-|:---:|:---|:---|:-:|
-| 📄 | [Lab Report (PDF)](Amey_B-50_Software_Engineering_Lab_Experiment-8.pdf) | Detailed experiment report | [View](Amey_B-50_Software_Engineering_Lab_Experiment-8.pdf) |
-| 📝 | [Lab Report (DOCX)](Amey_B-50_Software_Engineering_Lab_Experiment-8.docx) | Editable report file | [Download](Amey_B-50_Software_Engineering_Lab_Experiment-8.docx) |
+| # | Document | Description | Link |
+|:-:|:---|:---|:-:|
+| 1 | Lab Report (PDF) | Detailed experiment report | [View](Amey_B-50_Software_Engineering_Lab_Experiment-8.pdf) |
+| 2 | Lab Report (DOCX) | Editable report file | [Download](Amey_B-50_Software_Engineering_Lab_Experiment-8.docx) |
 
 ---
 
 <!-- =========================================================================================
                                      EXPERIMENT 9
      ========================================================================================= -->
-## 💰 Experiment 9: COCOMO Estimation
+## Experiment 9: COCOMO Estimation
 
 Estimation of project metrics using COCOMO.
 
-| Format | Document | Description | Link |
-|:---:|:---|:---|:-:|
-| 📄 | [Lab Report (PDF)](Amey_B-50_Software_Engineering_Lab_Experiment-9.pdf) | Detailed experiment report | [View](Amey_B-50_Software_Engineering_Lab_Experiment-9.pdf) |
-| 📝 | [Lab Report (DOCX)](Amey_B-50_Software_Engineering_Lab_Experiment-9.docx) | Editable report file | [Download](Amey_B-50_Software_Engineering_Lab_Experiment-9.docx) |
+| # | Document | Description | Link |
+|:-:|:---|:---|:-:|
+| 1 | Lab Report (PDF) | Detailed experiment report | [View](Amey_B-50_Software_Engineering_Lab_Experiment-9.pdf) |
+| 2 | Lab Report (DOCX) | Editable report file | [Download](Amey_B-50_Software_Engineering_Lab_Experiment-9.docx) |
 
 ---
 
 <!-- =========================================================================================
                                      EXPERIMENT 10
      ========================================================================================= -->
-## 🖥️ Experiment 10: UI Design
+## Experiment 10: UI Design
 
 Design User Interface for the mini-project.
 
-| Format | Document | Description | Link |
-|:---:|:---|:---|:-:|
-| 📄 | [Lab Report (PDF)](Amey_B-50_Software_Engineering_Lab_Experiment-10.pdf) | Detailed experiment report | [View](Amey_B-50_Software_Engineering_Lab_Experiment-10.pdf) |
-| 📝 | [Lab Report (DOCX)](Amey_B-50_Software_Engineering_Lab_Experiment-10.docx) | Editable report file | [Download](Amey_B-50_Software_Engineering_Lab_Experiment-10.docx) |
+| # | Document | Description | Link |
+|:-:|:---|:---|:-:|
+| 1 | Lab Report (PDF) | Detailed experiment report | [View](Amey_B-50_Software_Engineering_Lab_Experiment-10.pdf) |
+| 2 | Lab Report (DOCX) | Editable report file | [Download](Amey_B-50_Software_Engineering_Lab_Experiment-10.docx) |
 
 ---
 
 <!-- =========================================================================================
                                      EXPERIMENT 11
      ========================================================================================= -->
-## 🛡️ Experiment 11: RMMM Plan
+## Experiment 11: RMMM Plan
 
 Prepare Risk Mitigation, Monitoring & Management Plan.
 
-| Format | Document | Description | Link |
-|:---:|:---|:---|:-:|
-| 📄 | [Lab Report (PDF)](Amey_B-50_Software_Engineering_Lab_Experiment-11.pdf) | Detailed experiment report | [View](Amey_B-50_Software_Engineering_Lab_Experiment-11.pdf) |
-| 📝 | [Lab Report (DOCX)](Amey_B-50_Software_Engineering_Lab_Experiment-11.docx) | Editable report file | [Download](Amey_B-50_Software_Engineering_Lab_Experiment-11.docx) |
+| # | Document | Description | Link |
+|:-:|:---|:---|:-:|
+| 1 | Lab Report (PDF) | Detailed experiment report | [View](Amey_B-50_Software_Engineering_Lab_Experiment-11.pdf) |
+| 2 | Lab Report (DOCX) | Editable report file | [Download](Amey_B-50_Software_Engineering_Lab_Experiment-11.docx) |
 
 ---
 
 <!-- =========================================================================================
                                      EXPERIMENT 12
      ========================================================================================= -->
-## 🧪 Experiment 12: Software Testing
+## Experiment 12: Software Testing
 
 White box, Black box testing and Test case development.
 
-| Format | Document | Description | Link |
-|:---:|:---|:---|:-:|
-| 📄 | [Lab Report (PDF)](Amey_B-50_Software_Engineering_Lab_Experiment-12.pdf) | Detailed experiment report | [View](Amey_B-50_Software_Engineering_Lab_Experiment-12.pdf) |
-| 📝 | [Lab Report (DOCX)](Amey_B-50_Software_Engineering_Lab_Experiment-12.docx) | Editable report file | [Download](Amey_B-50_Software_Engineering_Lab_Experiment-12.docx) |
+| # | Document | Description | Link |
+|:-:|:---|:---|:-:|
+| 1 | Lab Report (PDF) | Detailed experiment report | [View](Amey_B-50_Software_Engineering_Lab_Experiment-12.pdf) |
+| 2 | Lab Report (DOCX) | Editable report file | [Download](Amey_B-50_Software_Engineering_Lab_Experiment-12.docx) |
 
 ---
 
@@ -200,9 +200,9 @@ White box, Black box testing and Test case development.
 <div align="center">
 
   <!-- Footer Navigation -->
-  **[⬆ Back to Top](#software-engineering-lab)**
+  **[↑ Back to Top](#software-engineering-lab)**
 
-  **[📝 Exp 1](#-experiment-1-problem-statement--process-model)** &nbsp;·&nbsp; **[📄 Exp 2](#-experiment-2-srs-document)** &nbsp;·&nbsp; **[💾 Exp 3](#-experiment-3-dfd--data-dictionary)** &nbsp;·&nbsp; **[🎭 Exp 4](#-experiment-4-use-case-diagrams)** &nbsp;·&nbsp; **[🏗️ Exp 5](#-experiment-5-class-diagrams)** &nbsp;·&nbsp; **[🔄 Exp 6](#-experiment-6-sequence--collaboration)** &nbsp;·&nbsp; **[🚦 Exp 7](#-experiment-7-activity--state-diagrams)** &nbsp;·&nbsp; **[📊 Exp 8](#-experiment-8-project-management-tools)** &nbsp;·&nbsp; **[💰 Exp 9](#-experiment-9-cocomo-estimation)** &nbsp;·&nbsp; **[🖥️ Exp 10](#-experiment-10-ui-design)** &nbsp;·&nbsp; **[🛡️ Exp 11](#-experiment-11-rmmm-plan)** &nbsp;·&nbsp; **[🧪 Exp 12](#-experiment-12-software-testing)**
+  **[Experiment 1](#experiment-1-problem-statement--process-model)** &nbsp;·&nbsp; **[Experiment 2](#experiment-2-srs-document)** &nbsp;·&nbsp; **[Experiment 3](#experiment-3-dfd--data-dictionary)** &nbsp;·&nbsp; **[Experiment 4](#experiment-4-use-case-diagrams)** &nbsp;·&nbsp; **[Experiment 5](#experiment-5-class-diagrams)** &nbsp;·&nbsp; **[Experiment 6](#experiment-6-sequence--collaboration)** &nbsp;·&nbsp; **[Experiment 7](#experiment-7-activity--state-diagrams)** &nbsp;·&nbsp; **[Experiment 8](#experiment-8-project-management-tools)** &nbsp;·&nbsp; **[Experiment 9](#experiment-9-cocomo-estimation)** &nbsp;·&nbsp; **[Experiment 10](#experiment-10-ui-design)** &nbsp;·&nbsp; **[Experiment 11](#experiment-11-rmmm-plan)** &nbsp;·&nbsp; **[Experiment 12](#experiment-12-software-testing)**
 
   <br>
 
@@ -214,7 +214,7 @@ White box, Black box testing and Test case development.
 
 <div align="center">
 
-  ### [Software Engineering Lab](https://github.com/Amey-Thakur/SOFTWARE-ENGINEERING-AND-SOFTWARE-ENGINEERING-LAB/tree/main/Software%20Engineering%20Lab)
+  ***[Software Engineering and Software Engineering Lab](https://github.com/Amey-Thakur/SOFTWARE-ENGINEERING-AND-SOFTWARE-ENGINEERING-LAB)***
 
   **CSL601 · Semester VI · Computer Engineering**
 
