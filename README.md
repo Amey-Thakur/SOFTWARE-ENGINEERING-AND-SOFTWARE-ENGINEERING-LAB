@@ -270,10 +270,10 @@ Internal assessment evaluations conducted during the course:
 
 **Additional Resources:**
 
-| # | Resource | Description | Link |
-|:-:|:---|:---|:-:|
-| 1 | **Marksheet** | IA1 Marksheet (TE COMP B) | [View](Internal%20Assessment%20Test/SE_IA1_marksheet_TE%20COMP%20B_FH%202021.pdf) |
-| 2 | **Answer Sheet Template** | IAT Answer Sheet Template | [View](Internal%20Assessment%20Test/SE.pdf) |
+| # | Resource | Description |
+|:-:|:---|:---|
+| 1 | [Marksheet](Internal%20Assessment%20Test/SE_IA1_marksheet_TE%20COMP%20B_FH%202021.pdf) | IA1 Marksheet (TE COMP B) |
+| 2 | [Answer Sheet Template](Internal%20Assessment%20Test/SE.pdf) | IAT Answer Sheet Template |
 
 ---
 
