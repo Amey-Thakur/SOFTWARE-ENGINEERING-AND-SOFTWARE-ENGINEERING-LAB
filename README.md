@@ -121,7 +121,7 @@ Academic assignments for comprehensive learning and practice:
 <!-- =========================================================================================
                                      QUIZZES SECTION
      ========================================================================================= -->
-## Quizzes
+### Quizzes
 
 SE-specific quizzes conducted during the course:
 
