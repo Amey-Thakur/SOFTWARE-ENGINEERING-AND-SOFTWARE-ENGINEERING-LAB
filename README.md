@@ -18,7 +18,7 @@
 
   ---
 
-  [Overview](#overview) &nbsp;·&nbsp; [Contents](#repository-contents) &nbsp;·&nbsp; [Reference Books](#reference-books) &nbsp;·&nbsp; [Personal Preparation](#personal-preparation) &nbsp;·&nbsp; [Assignments](#assignments) &nbsp;·&nbsp; [Software Engineering Laboratory](#software-engineering-laboratory) &nbsp;·&nbsp; [Mini Project](#software-engineering-mini-project) &nbsp;·&nbsp; [Quizzes](#quizzes) &nbsp;·&nbsp; [Mock Test](#mock-test) &nbsp;·&nbsp; [Internal Assessment Test](#internal-assessment-test) &nbsp;·&nbsp; [Semester Exam](#semester-exam) &nbsp;·&nbsp; [Question Papers](#question-papers) &nbsp;·&nbsp; [Submission Report](#submission-completion-report) &nbsp;·&nbsp; [Syllabus](#syllabus) &nbsp;·&nbsp; [Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
+  [Overview](#overview) &nbsp;·&nbsp; [Contents](#repository-contents) &nbsp;·&nbsp; [Reference Books](#reference-books) &nbsp;·&nbsp; [Personal Preparation](#personal-preparation) &nbsp;·&nbsp; [Assignments](#assignments) &nbsp;·&nbsp; [Quizzes](#quizzes) &nbsp;·&nbsp; [Software Engineering Laboratory](#software-engineering-laboratory) &nbsp;·&nbsp; [Mini Project](#software-engineering-mini-project) &nbsp;·&nbsp; [Mock Test](#mock-test) &nbsp;·&nbsp; [Internal Assessment Test](#internal-assessment-test) &nbsp;·&nbsp; [Semester Exam](#semester-exam) &nbsp;·&nbsp; [Question Papers](#question-papers) &nbsp;·&nbsp; [Submission Report](#submission-completion-report) &nbsp;·&nbsp; [Syllabus](#syllabus) &nbsp;·&nbsp; [Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
 
 </div>
 
@@ -119,6 +119,24 @@ Academic assignments for comprehensive learning and practice:
 ---
 
 <!-- =========================================================================================
+                                     QUIZZES SECTION
+     ========================================================================================= -->
+## Quizzes
+
+SE-specific quizzes conducted during the course:
+
+| Quiz | Topics | Marks | Resource |
+|:---|:---|:---:|:-:|
+| Quiz 1 | Chapter 1: Introduction to SE | 10/10 | [View](Quizzes/SE%20Quiz%201%20-%20Chapter%20No%201_TE_B_FH%202021.pdf) |
+| Quiz 2 | Chapter 2: Requirement Modelling | 10/10 | [View](Quizzes/SE%20Quiz%202%20-%20Chapter%20No%202_TE_B_FH%202021.pdf) |
+| Quiz 3 | Chapter 3: Project Scheduling and Tracking | 10/10 | [View](Quizzes/SE%20Quiz%203%20-%20Chapter%20No%203_TE_B_FH%202021.pdf) |
+| Quiz 4 | Chapter 4: Software Design | 10/10 | [View](Quizzes/SE%20Quiz%204%20-%20Chapter%20No%204_TE_B_FH%202021.pdf) |
+| Quiz 5 | Chapter 5: Risk Management and Configuration Management | 10/10 | [View](Quizzes/SE%20Quiz%205%20-%20Chapter%20No%205_TE_B_FH%202021.pdf) |
+| Quiz 6 | Chapter 6: Software Testing and Maintenance | 10/10 | [View](Quizzes/SE%20Quiz%206%20-%20Chapter%20No%206_TE_B_FH%202021.pdf) |
+
+---
+
+<!-- =========================================================================================
                                      LABORATORY SECTION
      ========================================================================================= -->
 ## Software Engineering Laboratory
@@ -212,21 +230,7 @@ A responsive Digital Bookstore website developed as a mini project for the Softw
 
 ---
 
-<!-- =========================================================================================
-                                     QUIZZES SECTION
-     ========================================================================================= -->
-## Quizzes
 
-SE-specific quizzes conducted during the course:
-
-| Quiz | Topics | Marks | Resource |
-|:---|:---|:---:|:-:|
-| Quiz 1 | Chapter 1: Introduction to SE | 10/10 | [View](Quizzes/SE%20Quiz%201%20-%20Chapter%20No%201_TE_B_FH%202021.pdf) |
-| Quiz 2 | Chapter 2: Requirement Modelling | 10/10 | [View](Quizzes/SE%20Quiz%202%20-%20Chapter%20No%202_TE_B_FH%202021.pdf) |
-| Quiz 3 | Chapter 3: Project Scheduling and Tracking | 10/10 | [View](Quizzes/SE%20Quiz%203%20-%20Chapter%20No%203_TE_B_FH%202021.pdf) |
-| Quiz 4 | Chapter 4: Software Design | 10/10 | [View](Quizzes/SE%20Quiz%204%20-%20Chapter%20No%204_TE_B_FH%202021.pdf) |
-| Quiz 5 | Chapter 5: Risk Management and Configuration Management | 10/10 | [View](Quizzes/SE%20Quiz%205%20-%20Chapter%20No%205_TE_B_FH%202021.pdf) |
-| Quiz 6 | Chapter 6: Software Testing and Maintenance | 10/10 | [View](Quizzes/SE%20Quiz%206%20-%20Chapter%20No%206_TE_B_FH%202021.pdf) |
 
 ---
 
@@ -414,7 +418,7 @@ Special thanks to the mentors and peers whose encouragement, discussions, and su
   <!-- Footer Navigation -->
   **[↑ Back to Top](#software-engineering-and-software-engineering-lab)**
 
-  **[Overview](#overview)** &nbsp;·&nbsp; **[Contents](#repository-contents)** &nbsp;·&nbsp; **[Reference Books](#reference-books)** &nbsp;·&nbsp; **[Personal Preparation](#personal-preparation)** &nbsp;·&nbsp; **[Assignments](#assignments)** &nbsp;·&nbsp; **[Laboratory](#software-engineering-laboratory)** &nbsp;·&nbsp; **[Mini Project](#software-engineering-mini-project)** &nbsp;·&nbsp; **[Quizzes](#quizzes)** &nbsp;·&nbsp; **[Mock Test](#mock-test)** &nbsp;·&nbsp; **[IAT](#internal-assessment-test)** &nbsp;·&nbsp; **[Semester Exam](#semester-exam)** &nbsp;·&nbsp; **[Question Papers](#question-papers)** &nbsp;·&nbsp; **[Submission Report](#submission-completion-report)** &nbsp;·&nbsp; **[Syllabus](#syllabus)** &nbsp;·&nbsp; **[Usage Guidelines](#usage-guidelines)** &nbsp;·&nbsp; **[License](#license)** &nbsp;·&nbsp; **[About](#about-this-repository)** &nbsp;·&nbsp; **[Acknowledgments](#acknowledgments)**
+  **[Overview](#overview)** &nbsp;·&nbsp; **[Contents](#repository-contents)** &nbsp;·&nbsp; **[Reference Books](#reference-books)** &nbsp;·&nbsp; **[Personal Preparation](#personal-preparation)** &nbsp;·&nbsp; **[Assignments](#assignments)** &nbsp;·&nbsp; **[Quizzes](#quizzes)** &nbsp;·&nbsp; **[Laboratory](#software-engineering-laboratory)** &nbsp;·&nbsp; **[Mini Project](#software-engineering-mini-project)** &nbsp;·&nbsp; **[Mock Test](#mock-test)** &nbsp;·&nbsp; **[IAT](#internal-assessment-test)** &nbsp;·&nbsp; **[Semester Exam](#semester-exam)** &nbsp;·&nbsp; **[Question Papers](#question-papers)** &nbsp;·&nbsp; **[Submission Report](#submission-completion-report)** &nbsp;·&nbsp; **[Syllabus](#syllabus)** &nbsp;·&nbsp; **[Usage Guidelines](#usage-guidelines)** &nbsp;·&nbsp; **[License](#license)** &nbsp;·&nbsp; **[About](#about-this-repository)** &nbsp;·&nbsp; **[Acknowledgments](#acknowledgments)**
 
   <br>
 
