@@ -15,7 +15,7 @@
 
   ---
 
-  **[Experiment 1](#experiment-1-problem-statement--process-model)** &nbsp;·&nbsp; **[Experiment 2](#experiment-2-srs-document)** &nbsp;·&nbsp; **[Experiment 3](#experiment-3-dfd--data-dictionary)** &nbsp;·&nbsp; **[Experiment 4](#experiment-4-use-case-diagrams)** &nbsp;·&nbsp; **[Experiment 5](#experiment-5-class-diagrams)** &nbsp;·&nbsp; **[Experiment 6](#experiment-6-sequence--collaboration)** &nbsp;·&nbsp; **[Experiment 7](#experiment-7-activity--state-diagrams)** &nbsp;·&nbsp; **[Experiment 8](#experiment-8-project-management-tools)** &nbsp;·&nbsp; **[Experiment 9](#experiment-9-cocomo-estimation)** &nbsp;·&nbsp; **[Experiment 10](#experiment-10-ui-design)** &nbsp;·&nbsp; **[Experiment 11](#experiment-11-rmmm-plan)** &nbsp;·&nbsp; **[Experiment 12](#experiment-12-software-testing)**
+  **[How to Use](#how-to-use)** &nbsp;·&nbsp; **[Learning Path](#learning-path)** &nbsp;·&nbsp; **[Experiment 1](#experiment-1-problem-statement--process-model)** &nbsp;·&nbsp; **[Experiment 2](#experiment-2-srs-document)** &nbsp;·&nbsp; **[Experiment 3](#experiment-3-dfd--data-dictionary)** &nbsp;·&nbsp; **[Experiment 4](#experiment-4-use-case-diagrams)** &nbsp;·&nbsp; **[Experiment 5](#experiment-5-class-diagrams)** &nbsp;·&nbsp; **[Experiment 6](#experiment-6-sequence--collaboration)** &nbsp;·&nbsp; **[Experiment 7](#experiment-7-activity--state-diagrams)** &nbsp;·&nbsp; **[Experiment 8](#experiment-8-project-management-tools)** &nbsp;·&nbsp; **[Experiment 9](#experiment-9-cocomo-estimation)** &nbsp;·&nbsp; **[Experiment 10](#experiment-10-ui-design)** &nbsp;·&nbsp; **[Experiment 11](#experiment-11-rmmm-plan)** &nbsp;·&nbsp; **[Experiment 12](#experiment-12-software-testing)**
 
 </div>
 
@@ -23,6 +23,47 @@
 
 > [!TIP]
 > **Lab Manual**: This directory contains comprehensive reports for all experiments conducted during the course. For the final Mini Project, please visit the [**Mini Project Section**](../README.md#software-engineering-mini-project) in the main repository.
+
+> [!WARNING]
+> **Document Formats**: Lab reports are provided in both PDF (for viewing) and DOCX (for editing). Ensure you have appropriate software to view/edit these formats. When submitting, always verify formatting is preserved in the final document.
+
+---
+
+<!-- =========================================================================================
+                                     HOW TO USE SECTION
+     ========================================================================================= -->
+## How to Use
+
+### Viewing Reports
+1. **Navigate** to the desired experiment section.
+2. **Click** the "View" link for PDF format or "Download" for DOCX format.
+3. **PDF files** can be viewed directly in the browser.
+4. **DOCX files** require Microsoft Word or compatible software.
+
+### Using as Reference
+- Each experiment report follows the standard lab manual format.
+- Reports include problem statements, theoretical backgrounds, and detailed solutions.
+- Use these as templates for your own lab submissions.
+
+---
+
+<!-- =========================================================================================
+                                     LEARNING PATH SECTION
+     ========================================================================================= -->
+## Learning Path
+
+**Requirements Phase:**
+- Start with **Experiment 1** to understand problem definition and process model selection.
+- Practice **Experiment 2** for IEEE-format SRS document preparation.
+
+**Design Phase:**
+- Explore **Experiments 3-7** to master DFD, Data Dictionary, and all UML diagrams (Use Case, Class, Sequence, Collaboration, Activity, State).
+
+**Project Management:**
+- Study **Experiments 8 & 9** for project scheduling (Gantt Chart, CPM, EVA) and COCOMO cost estimation.
+
+**Implementation & Testing:**
+- Complete **Experiments 10-12** for UI Design, Risk Management (RMMM), and Software Testing techniques.
 
 ---
 
@@ -202,7 +243,7 @@ White box, Black box testing and Test case development.
   <!-- Footer Navigation -->
   **[↑ Back to Top](#software-engineering-lab)**
 
-  **[Experiment 1](#experiment-1-problem-statement--process-model)** &nbsp;·&nbsp; **[Experiment 2](#experiment-2-srs-document)** &nbsp;·&nbsp; **[Experiment 3](#experiment-3-dfd--data-dictionary)** &nbsp;·&nbsp; **[Experiment 4](#experiment-4-use-case-diagrams)** &nbsp;·&nbsp; **[Experiment 5](#experiment-5-class-diagrams)** &nbsp;·&nbsp; **[Experiment 6](#experiment-6-sequence--collaboration)** &nbsp;·&nbsp; **[Experiment 7](#experiment-7-activity--state-diagrams)** &nbsp;·&nbsp; **[Experiment 8](#experiment-8-project-management-tools)** &nbsp;·&nbsp; **[Experiment 9](#experiment-9-cocomo-estimation)** &nbsp;·&nbsp; **[Experiment 10](#experiment-10-ui-design)** &nbsp;·&nbsp; **[Experiment 11](#experiment-11-rmmm-plan)** &nbsp;·&nbsp; **[Experiment 12](#experiment-12-software-testing)**
+  **[How to Use](#how-to-use)** &nbsp;·&nbsp; **[Learning Path](#learning-path)** &nbsp;·&nbsp; **[Experiment 1](#experiment-1-problem-statement--process-model)** &nbsp;·&nbsp; **[Experiment 2](#experiment-2-srs-document)** &nbsp;·&nbsp; **[Experiment 3](#experiment-3-dfd--data-dictionary)** &nbsp;·&nbsp; **[Experiment 4](#experiment-4-use-case-diagrams)** &nbsp;·&nbsp; **[Experiment 5](#experiment-5-class-diagrams)** &nbsp;·&nbsp; **[Experiment 6](#experiment-6-sequence--collaboration)** &nbsp;·&nbsp; **[Experiment 7](#experiment-7-activity--state-diagrams)** &nbsp;·&nbsp; **[Experiment 8](#experiment-8-project-management-tools)** &nbsp;·&nbsp; **[Experiment 9](#experiment-9-cocomo-estimation)** &nbsp;·&nbsp; **[Experiment 10](#experiment-10-ui-design)** &nbsp;·&nbsp; **[Experiment 11](#experiment-11-rmmm-plan)** &nbsp;·&nbsp; **[Experiment 12](#experiment-12-software-testing)**
 
   <br>
 
