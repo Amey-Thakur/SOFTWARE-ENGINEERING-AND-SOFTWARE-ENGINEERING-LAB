@@ -290,7 +290,7 @@ White box, Black box testing and Test case development.
 
 <div align="center">
 
-  ### [Software Engineering Lab](https://github.com/Amey-Thakur/SOFTWARE-ENGINEERING-AND-SOFTWARE-ENGINEERING-LAB)
+  ### [Software Engineering and Software Engineering Lab](https://github.com/Amey-Thakur/SOFTWARE-ENGINEERING-AND-SOFTWARE-ENGINEERING-LAB)
 
   **CSL601 · Semester VI · Computer Engineering**
 
