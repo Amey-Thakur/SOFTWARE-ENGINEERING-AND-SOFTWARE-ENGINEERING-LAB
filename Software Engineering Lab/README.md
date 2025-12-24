@@ -74,6 +74,8 @@
 
 Prepare detailed problem statement and identify suitable process model with justification.
 
+**Date:** February 06, 2021
+
 | # | Document | Description | Link |
 |:-:|:---|:---|:-:|
 | 1 | Lab Report (PDF) | Detailed experiment report | [View](Amey_B-50_Software_Engineering_Lab_Experiment-1.pdf) |
@@ -87,6 +89,8 @@ Prepare detailed problem statement and identify suitable process model with just
 ## Experiment 2: SRS Document
 
 Prepare Software Requirement Specification document (IEEE format).
+
+**Date:** February 13, 2021
 
 | # | Document | Description | Link |
 |:-:|:---|:---|:-:|
@@ -102,6 +106,8 @@ Prepare Software Requirement Specification document (IEEE format).
 
 Draw DFD (up to 2 levels) and prepare Data Dictionary.
 
+**Date:** February 19, 2021
+
 | # | Document | Description | Link |
 |:-:|:---|:---|:-:|
 | 1 | Lab Report (PDF) | Detailed experiment report | [View](Amey_B-50_Software_Engineering_Lab_Experiment-3.pdf) |
@@ -115,6 +121,8 @@ Draw DFD (up to 2 levels) and prepare Data Dictionary.
 ## Experiment 4: Use Case Diagrams
 
 Identify scenarios & develop UML Use Case diagram.
+
+**Date:** February 25, 2021
 
 | # | Document | Description | Link |
 |:-:|:---|:---|:-:|
@@ -130,6 +138,8 @@ Identify scenarios & develop UML Use Case diagram.
 
 Develop UML Class Diagram for the mini-project.
 
+**Date:** March 21, 2021
+
 | # | Document | Description | Link |
 |:-:|:---|:---|:-:|
 | 1 | Lab Report (PDF) | Detailed experiment report | [View](Amey_B-50_Software_Engineering_Lab_Experiment-5.pdf) |
@@ -143,6 +153,8 @@ Develop UML Class Diagram for the mini-project.
 ## Experiment 6: Sequence & Collaboration
 
 Develop Sequence and Collaboration diagrams.
+
+**Date:** March 22, 2021
 
 | # | Document | Description | Link |
 |:-:|:---|:---|:-:|
@@ -158,6 +170,8 @@ Develop Sequence and Collaboration diagrams.
 
 Develop Activity / State Transition diagrams.
 
+**Date:** March 22, 2021
+
 | # | Document | Description | Link |
 |:-:|:---|:---|:-:|
 | 1 | Lab Report (PDF) | Detailed experiment report | [View](Amey_B-50_Software_Engineering_Lab_Experiment-7.pdf) |
@@ -171,6 +185,8 @@ Develop Activity / State Transition diagrams.
 ## Experiment 8: Project Management Tools
 
 Schedule project plan using Gantt Chart, CPM, and EVA.
+
+**Date:** March 30, 2021
 
 | # | Document | Description | Link |
 |:-:|:---|:---|:-:|
@@ -186,6 +202,8 @@ Schedule project plan using Gantt Chart, CPM, and EVA.
 
 Estimation of project metrics using COCOMO.
 
+**Date:** April 01, 2021
+
 | # | Document | Description | Link |
 |:-:|:---|:---|:-:|
 | 1 | Lab Report (PDF) | Detailed experiment report | [View](Amey_B-50_Software_Engineering_Lab_Experiment-9.pdf) |
@@ -199,6 +217,8 @@ Estimation of project metrics using COCOMO.
 ## Experiment 10: UI Design
 
 Design User Interface for the mini-project.
+
+**Date:** April 14, 2021
 
 | # | Document | Description | Link |
 |:-:|:---|:---|:-:|
@@ -214,6 +234,8 @@ Design User Interface for the mini-project.
 
 Prepare Risk Mitigation, Monitoring & Management Plan.
 
+**Date:** April 23, 2021
+
 | # | Document | Description | Link |
 |:-:|:---|:---|:-:|
 | 1 | Lab Report (PDF) | Detailed experiment report | [View](Amey_B-50_Software_Engineering_Lab_Experiment-11.pdf) |
@@ -227,6 +249,8 @@ Prepare Risk Mitigation, Monitoring & Management Plan.
 ## Experiment 12: Software Testing
 
 White box, Black box testing and Test case development.
+
+**Date:** May 06, 2021
 
 | # | Document | Description | Link |
 |:-:|:---|:---|:-:|
