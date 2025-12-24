@@ -256,8 +256,8 @@ Internal assessment evaluations conducted during the course:
 | # | Resource | Description | Marks |
 |:-:|:---|:---|:---:|
 | 1 | [Question Paper](Internal%20Assessment%20Test/29Software%20Engg_IA%201_Descriptive%20Question.pdf) | SE Internal Assessment Test 1 Question Paper | — |
-| 2 | [MCQ](Internal%20Assessment%20Test/SE-MCQ.png) | SE Internal Assessment Test 1 MCQ | 10/10 |
-| 3 | [Answer Sheet](Internal%20Assessment%20Test/Amey_B-50_SE_IAT-1.pdf) | SE Internal Assessment Test 1 Answer Sheet | 19/20 |
+| 2 | [Answer Sheet](Internal%20Assessment%20Test/Amey_B-50_SE_IAT-1.pdf) | SE Internal Assessment Test 1 Answer Sheet | 19/20 |
+| 3 | [MCQ](Internal%20Assessment%20Test/SE-MCQ.png) | SE Internal Assessment Test 1 MCQ | 10/10 |
 
 ### IAT - 2
 
