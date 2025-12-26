@@ -336,7 +336,7 @@ Course completion documentation:
 
 | # | Document | Description |
 |:-:|:---|:---|
-| 1 | [**Submission Report**](Submission%20Report/Amey_B-50_SE_Term_Work_Submission_Report.pdf) | Final coursework submission report |
+| 1 | [Submission Report](Submission%20Report/Amey_B-50_SE_Term_Work_Submission_Report.pdf) | Final coursework submission report |
 
 ---
 
