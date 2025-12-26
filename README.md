@@ -210,7 +210,7 @@ The laboratory component (CSL601) focuses on hands-on implementation of software
 
 > [!IMPORTANT]
 > ### 🤝🏻 Special Acknowledgement
-> *Special thanks to [Mega Satish](https://github.com/msatmod) for her meaningful contributions, guidance, and support that helped shape this work.*
+> *Special thanks to **[Mega Satish](https://github.com/msatmod)** for her meaningful contributions, guidance, and support that helped shape this work.*
 
 ### Project Overview
 A responsive Digital Bookstore website developed as a mini project for the Software Engineering Lab. The website lists all of the books that are currently available in the shop, along with their descriptions. Users can browse books by category or author, search for a specific book, and view complete description pages. The platform features sorting by price or discount, user registration and login, shopping cart functionality, and direct email support for inquiries. This project showcases the practical integration of **PHP**, **MySQL**, and **front-end technologies** to solve real-world e-commerce challenges.
