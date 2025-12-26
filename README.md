@@ -5,7 +5,7 @@
 
   <img src="https://raw.githubusercontent.com/Amey-Thakur/COMPUTER-ENGINEERING/main/university-of-mumbai-logo.png" alt="University of Mumbai" width="200"/>
 
-  # Software Engineering and Software Engineering Lab
+  # Software Engineering and Software Engineering Laboratory
 
   ### CSC601 & CSL601 · Semester VI · Computer Engineering
 
@@ -14,7 +14,7 @@
   [![Institution](https://img.shields.io/badge/Institution-Terna%20Engineering%20College-orange.svg)](https://ternaengg.ac.in/)
   [![Curated by](https://img.shields.io/badge/Curated%20by-Amey%20Thakur-blue.svg)](https://github.com/Amey-Thakur)
 
-  **A comprehensive academic resource for Software Engineering (SE) and SE Laboratory, covering software development lifecycle, requirements analysis, design patterns, testing methodologies, and project management.**
+  **A comprehensive academic resource for Software Engineering (SE) and Software Engineering Laboratory, covering software development lifecycle, requirements analysis, design patterns, testing methodologies, and project management.**
 
   ---
 
@@ -29,7 +29,7 @@
      ========================================================================================= -->
 ## Overview
 
-Software Engineering (CSC601) and SE Lab (CSL601) are core subjects in the Third Year (Semester VI) of the Computer Engineering curriculum at the University of Mumbai. These courses provide foundational knowledge of software development methodologies, project management, requirement analysis, design patterns, and testing strategies.
+Software Engineering (CSC601) and Software Engineering Laboratory (CSL601) are core subjects in the Third Year (Semester VI) of the Computer Engineering curriculum at the University of Mumbai. These courses provide foundational knowledge of software development methodologies, project management, requirement analysis, design patterns, and testing strategies.
 
 ### Course Topics
 
@@ -52,7 +52,7 @@ As a computer engineer, understanding software development principles is crucial
 
 - **Knowledge Preservation**: To maintain organized access to comprehensive study materials beyond the classroom.
 - **Continuous Learning**: To support lifelong learning by enabling easy revisitation of fundamental software engineering concepts.
-- **Academic Documentation**: To authentically document my learning journey through SE and SE Lab.
+- **Academic Documentation**: To authentically document my learning journey through Software Engineering and Software Engineering Laboratory.
 - **Community Contribution**: To share these resources with students and learners who may benefit from them.
 
 All materials in this repository were gathered, organized, and documented by me during my undergraduate studies (2018-2022) as part of my coursework and exam preparation.
@@ -346,7 +346,7 @@ Course completion documentation:
 ## Syllabus
 
 > **[Official CBCGS Syllabus](Syllabus/TE%20BE%20Comp%20Engg%20CBCGS%20Syllabus.pdf)**  
-> Complete Third Year Computer Engineering syllabus document from the University of Mumbai, including detailed course outcomes, assessment criteria, and module specifications for SE and SE Lab.
+> Complete Third Year Computer Engineering syllabus document from the University of Mumbai, including detailed course outcomes, assessment criteria, and module specifications for Software Engineering and Software Engineering Laboratory.
 
 > [!IMPORTANT]
 > Always verify the latest syllabus details with the official University of Mumbai website, as curriculum updates may occur after this repository's archival date.
@@ -393,7 +393,7 @@ This repository and all linked academic content are made available under the **C
 **Institution**: [Terna Engineering College](https://ternaengg.ac.in/), Navi Mumbai  
 **University**: [University of Mumbai](https://mu.ac.in/)
 
-This repository represents a comprehensive collection of study materials, reference books, assignments, and personal preparation notes curated during my academic journey. All content has been carefully organized and documented to serve as a valuable resource for students pursuing Software Engineering & SE Lab.
+This repository represents a comprehensive collection of study materials, reference books, assignments, and personal preparation notes curated during my academic journey. All content has been carefully organized and documented to serve as a valuable resource for students pursuing Software Engineering & Software Engineering Laboratory.
 
 **Connect**: [GitHub](https://github.com/Amey-Thakur) · [LinkedIn](https://www.linkedin.com/in/amey-thakur)
 
@@ -413,13 +413,13 @@ Special thanks to the mentors and peers whose encouragement, discussions, and su
 <div align="center">
 
   <!-- Footer Navigation -->
-  **[↑ Back to Top](#software-engineering-and-software-engineering-lab)**
+  **[↑ Back to Top](#software-engineering-and-software-engineering-laboratory)**
 
   **[Overview](#overview)** &nbsp;·&nbsp; **[Contents](#repository-contents)** &nbsp;·&nbsp; **[Reference Books](#reference-books)** &nbsp;·&nbsp; **[Personal Preparation](#personal-preparation)** &nbsp;·&nbsp; **[Assignments](#assignments)** &nbsp;·&nbsp; **[Quizzes](#quizzes)** &nbsp;·&nbsp; **[Laboratory](#software-engineering-laboratory)** &nbsp;·&nbsp; **[Mini Project](#software-engineering-mini-project)** &nbsp;·&nbsp; **[Mock Test](#mock-test)** &nbsp;·&nbsp; **[IAT](#internal-assessment-test)** &nbsp;·&nbsp; **[Semester Exam](#semester-exam)** &nbsp;·&nbsp; **[Question Papers](#question-papers)** &nbsp;·&nbsp; **[Submission Report](#submission-completion-report)** &nbsp;·&nbsp; **[Syllabus](#syllabus)** &nbsp;·&nbsp; **[Usage Guidelines](#usage-guidelines)** &nbsp;·&nbsp; **[License](#license)** &nbsp;·&nbsp; **[About](#about-this-repository)** &nbsp;·&nbsp; **[Acknowledgments](#acknowledgments)**
 
   <br>
 
-  **[Software Engineering Lab](Software%20Engineering%20Lab/README.md)** &nbsp;·&nbsp; **[📚 Digital Bookstore](https://github.com/Amey-Thakur/DIGITAL-BOOKSTORE)**
+  **[Software Engineering Laboratory](Software%20Engineering%20Lab/README.md)** &nbsp;·&nbsp; **[📚 Digital Bookstore](https://github.com/Amey-Thakur/DIGITAL-BOOKSTORE)**
 
 </div>
 
