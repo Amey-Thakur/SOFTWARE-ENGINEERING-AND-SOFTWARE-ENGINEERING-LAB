@@ -110,9 +110,9 @@ Academic assignments for comprehensive learning and practice:
 
 | # | Assignment | Description | Date | Marks |
 |:-:|:---|:---|:---:|:---:|
-| 1 | [**Assignment 1**](Assignments/Amey_B-50_SE_Assignment-1.pdf) | Agile Methodology, Waterfall & Spiral Models, Requirements Engineering | March 20, 2021 | 9/10 |
-| 2 | [**Assignment 2**](Assignments/Amey_B-50_SE_Assignment-2.pdf) | Software Design Concepts, Cohesion & Coupling, Risk Management (RMMM) | April 10, 2021 | 10/10 |
-| 3 | [**Assignment 3**](Assignments/Amey_B-50_SE_Assignment-3.pdf) | UML Diagrams (Component & Deployment) for Library Management System | April 25, 2021 | 9/10 |
+| 1 | [Assignment 1](Assignments/Amey_B-50_SE_Assignment-1.pdf) | Agile Methodology, Waterfall & Spiral Models, Requirements Engineering | March 20, 2021 | 9/10 |
+| 2 | [Assignment 2](Assignments/Amey_B-50_SE_Assignment-2.pdf) | Software Design Concepts, Cohesion & Coupling, Risk Management (RMMM) | April 10, 2021 | 10/10 |
+| 3 | [Assignment 3](Assignments/Amey_B-50_SE_Assignment-3.pdf) | UML Diagrams (Component & Deployment) for Library Management System | April 25, 2021 | 9/10 |
 
 **Topics Covered**: Agile Methodology & Principles · Waterfall and Spiral Process Models · Requirements Engineering & Gathering Techniques · Software Design Fundamentals · Cohesion and Coupling · Risk Management (RMMM Plan) · UML Component & Deployment Diagrams
 
@@ -127,12 +127,12 @@ SE-specific quizzes conducted during the course:
 
 | # | Quiz | Topics | Marks |
 |:-:|:---|:---|:---:|
-| 1 | [**Quiz 1**](Quizzes/SE%20Quiz%201%20-%20Chapter%20No%201_TE_B_FH%202021.pdf) | Chapter 1: Introduction to SE | 10/10 |
-| 2 | [**Quiz 2**](Quizzes/SE%20Quiz%202%20-%20Chapter%20No%202_TE_B_FH%202021.pdf) | Chapter 2: Requirement Modelling | 10/10 |
-| 3 | [**Quiz 3**](Quizzes/SE%20Quiz%203%20-%20Chapter%20No%203_TE_B_FH%202021.pdf) | Chapter 3: Project Scheduling and Tracking | 10/10 |
-| 4 | [**Quiz 4**](Quizzes/SE%20Quiz%204%20-%20Chapter%20No%204_TE_B_FH%202021.pdf) | Chapter 4: Software Design | 10/10 |
-| 5 | [**Quiz 5**](Quizzes/SE%20Quiz%205%20-%20Chapter%20No%205_TE_B_FH%202021.pdf) | Chapter 5: Risk Management and Configuration Management | 10/10 |
-| 6 | [**Quiz 6**](Quizzes/SE%20Quiz%206%20-%20Chapter%20No%206_TE_B_FH%202021.pdf) | Chapter 6: Software Testing and Maintenance | 10/10 |
+| 1 | [Quiz 1](Quizzes/SE%20Quiz%201%20-%20Chapter%20No%201_TE_B_FH%202021.pdf) | Chapter 1: Introduction to SE | 10/10 |
+| 2 | [Quiz 2](Quizzes/SE%20Quiz%202%20-%20Chapter%20No%202_TE_B_FH%202021.pdf) | Chapter 2: Requirement Modelling | 10/10 |
+| 3 | [Quiz 3](Quizzes/SE%20Quiz%203%20-%20Chapter%20No%203_TE_B_FH%202021.pdf) | Chapter 3: Project Scheduling and Tracking | 10/10 |
+| 4 | [Quiz 4](Quizzes/SE%20Quiz%204%20-%20Chapter%20No%204_TE_B_FH%202021.pdf) | Chapter 4: Software Design | 10/10 |
+| 5 | [Quiz 5](Quizzes/SE%20Quiz%205%20-%20Chapter%20No%205_TE_B_FH%202021.pdf) | Chapter 5: Risk Management and Configuration Management | 10/10 |
+| 6 | [Quiz 6](Quizzes/SE%20Quiz%206%20-%20Chapter%20No%206_TE_B_FH%202021.pdf) | Chapter 6: Software Testing and Maintenance | 10/10 |
 
 ---
 
@@ -227,7 +227,7 @@ A responsive Digital Bookstore website developed as a mini project for the Softw
 | 2 | Project Demo (YouTube) | Real-time demonstration of features | May 2021 | [View](https://youtu.be/JuUix8olOC8) |
 | 3 | Project Timeline | Project execution schedule and milestones | March 2021 | [View](Amey_B-50_Software_Engineering_Mini_Project_Timeline.pdf) |
 | 4 | Publication Certificate | Recognition for project excellence | July 2021 | [View](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Research%20Papers/Digital%20Bookstore/IJRASET36609%20-%20Digital%20Bookstore.pdf) |
-| 5 | **Project Diagrams & Plan** | Raw work diagrams planning for digital bookstore project | May 2021 | [View](Software%20Engineering%20Lab/SE%20EXPERIMENTS.pdf) |
+| 5 | Project Diagrams & Plan | Raw work diagrams planning for digital bookstore project | May 2021 | [View](Software%20Engineering%20Lab/SE%20EXPERIMENTS.pdf) |
 
 ---
 
@@ -240,7 +240,7 @@ Technical mock test conducted for placement preparation:
 
 | # | Resource | Description |
 |:-:|:---|:---|
-| 1 | [**Technical Mock Test**](Technical%20Mock%20Test-%20For%20Terna%20Engineering%20College%20by%20Campus%20Corners!.pdf) | Campus Corners Mock Test for Terna Engineering College |
+| 1 | [Technical Mock Test](Technical%20Mock%20Test-%20For%20Terna%20Engineering%20College%20by%20Campus%20Corners!.pdf) | Campus Corners Mock Test for Terna Engineering College |
 
 ---
 
@@ -399,7 +399,7 @@ This repository represents a comprehensive collection of study materials, refere
 
 ### Acknowledgments
 
-Grateful acknowledgment to [Mega Satish](https://github.com/msatmod) for her exceptional support and collaboration during the laboratory experiments of this course. Her constant support, patience, and clarity as we learned the fundamentals of Software Engineering together made a real difference. Working alongside her was truly enriching; her ability to simplify complex concepts and her steady encouragement turned challenging experiments into meaningful learning moments. This repository reflects the growth that came from our shared curiosity and mutual dedication to mastering the subject. Thank you, Mega, for being such an outstanding partner to learn with and for all the knowledge we shared along the way.
+Grateful acknowledgment to **[Mega Satish](https://github.com/msatmod)** for her exceptional support and collaboration during the laboratory experiments of this course. Her constant support, patience, and clarity as we learned the fundamentals of Software Engineering together made a real difference. Working alongside her was truly enriching; her ability to simplify complex concepts and her steady encouragement turned challenging experiments into meaningful learning moments. This repository reflects the growth that came from our shared curiosity and mutual dedication to mastering the subject. Thank you, Mega, for being such an outstanding partner to learn with and for all the knowledge we shared along the way.
 
 Special thanks to the faculty members of the Department of Computer Engineering at Terna Engineering College for their guidance and instruction in Software Engineering. Their clear teaching and continued support helped develop a strong understanding of software development principles.
 
@@ -413,13 +413,13 @@ Special thanks to the mentors and peers whose encouragement, discussions, and su
 <div align="center">
 
   <!-- Footer Navigation -->
-  **[↑ Back to Top](#software-engineering-and-software-engineering-laboratory)**
+  [↑ Back to Top](#software-engineering-and-software-engineering-laboratory)
 
-  **[Overview](#overview)** &nbsp;·&nbsp; **[Contents](#repository-contents)** &nbsp;·&nbsp; **[Reference Books](#reference-books)** &nbsp;·&nbsp; **[Personal Preparation](#personal-preparation)** &nbsp;·&nbsp; **[Assignments](#assignments)** &nbsp;·&nbsp; **[Quizzes](#quizzes)** &nbsp;·&nbsp; **[Laboratory](#software-engineering-laboratory)** &nbsp;·&nbsp; **[Mini Project](#software-engineering-mini-project)** &nbsp;·&nbsp; **[Mock Test](#mock-test)** &nbsp;·&nbsp; **[IAT](#internal-assessment-test)** &nbsp;·&nbsp; **[Semester Exam](#semester-exam)** &nbsp;·&nbsp; **[Question Papers](#question-papers)** &nbsp;·&nbsp; **[Submission Report](#submission-completion-report)** &nbsp;·&nbsp; **[Syllabus](#syllabus)** &nbsp;·&nbsp; **[Usage Guidelines](#usage-guidelines)** &nbsp;·&nbsp; **[License](#license)** &nbsp;·&nbsp; **[About](#about-this-repository)** &nbsp;·&nbsp; **[Acknowledgments](#acknowledgments)**
+  [Overview](#overview) &nbsp;·&nbsp; [Contents](#repository-contents) &nbsp;·&nbsp; [Reference Books](#reference-books) &nbsp;·&nbsp; [Personal Preparation](#personal-preparation) &nbsp;·&nbsp; [Assignments](#assignments) &nbsp;·&nbsp; [Quizzes](#quizzes) &nbsp;·&nbsp; [Laboratory](#software-engineering-laboratory) &nbsp;·&nbsp; [Mini Project](#software-engineering-mini-project) &nbsp;·&nbsp; [Mock Test](#mock-test) &nbsp;·&nbsp; [IAT](#internal-assessment-test) &nbsp;·&nbsp; [Semester Exam](#semester-exam) &nbsp;·&nbsp; [Question Papers](#question-papers) &nbsp;·&nbsp; [Submission Report](#submission-completion-report) &nbsp;·&nbsp; [Syllabus](#syllabus) &nbsp;·&nbsp; [Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
 
   <br>
 
-  **[Software Engineering Laboratory](Software%20Engineering%20Lab/README.md)** &nbsp;·&nbsp; **[📚 Digital Bookstore](https://github.com/Amey-Thakur/DIGITAL-BOOKSTORE)**
+  🔬 **[Software Engineering Laboratory](Software%20Engineering%20Lab/README.md)** &nbsp;·&nbsp; 📚 **[Digital Bookstore](https://github.com/Amey-Thakur/DIGITAL-BOOKSTORE)**
 
 </div>
 
