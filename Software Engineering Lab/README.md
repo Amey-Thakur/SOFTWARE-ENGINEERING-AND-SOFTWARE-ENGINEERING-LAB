@@ -15,7 +15,7 @@
 
   ---
 
-  **[How to Use](#how-to-use)** &nbsp;·&nbsp; **[Learning Path](#learning-path)** &nbsp;·&nbsp; **[Experiment 1](#experiment-1-problem-statement--process-model)** &nbsp;·&nbsp; **[Experiment 2](#experiment-2-srs-document)** &nbsp;·&nbsp; **[Experiment 3](#experiment-3-dfd--data-dictionary)** &nbsp;·&nbsp; **[Experiment 4](#experiment-4-use-case-diagrams)** &nbsp;·&nbsp; **[Experiment 5](#experiment-5-class-diagrams)** &nbsp;·&nbsp; **[Experiment 6](#experiment-6-sequence--collaboration)** &nbsp;·&nbsp; **[Experiment 7](#experiment-7-activity--state-diagrams)** &nbsp;·&nbsp; **[Experiment 8](#experiment-8-project-management-tools)** &nbsp;·&nbsp; **[Experiment 9](#experiment-9-cocomo-estimation)** &nbsp;·&nbsp; **[Experiment 10](#experiment-10-ui-design)** &nbsp;·&nbsp; **[Experiment 11](#experiment-11-rmmm-plan)** &nbsp;·&nbsp; **[Experiment 12](#experiment-12-software-testing)**
+  [How to Use](#how-to-use) &nbsp;·&nbsp; [Learning Path](#learning-path) &nbsp;·&nbsp; [Experiment 1](#experiment-1-problem-statement--process-model) &nbsp;·&nbsp; [Experiment 2](#experiment-2-srs-document) &nbsp;·&nbsp; [Experiment 3](#experiment-3-dfd--data-dictionary) &nbsp;·&nbsp; [Experiment 4](#experiment-4-use-case-diagrams) &nbsp;·&nbsp; [Experiment 5](#experiment-5-class-diagrams) &nbsp;·&nbsp; [Experiment 6](#experiment-6-sequence--collaboration) &nbsp;·&nbsp; [Experiment 7](#experiment-7-activity--state-diagrams) &nbsp;·&nbsp; [Experiment 8](#experiment-8-project-management-tools) &nbsp;·&nbsp; [Experiment 9](#experiment-9-cocomo-estimation) &nbsp;·&nbsp; [Experiment 10](#experiment-10-ui-design) &nbsp;·&nbsp; [Experiment 11](#experiment-11-rmmm-plan) &nbsp;·&nbsp; [Experiment 12](#experiment-12-software-testing)
 
 </div>
 
@@ -54,7 +54,7 @@
 
 | Document | Description | Link |
 |:---|:---|:-:|
-| **SE Experiments** | Complete compilation of all 12 experiments | [View](SE%20EXPERIMENTS.pdf) |
+| SE Experiments | Complete compilation of all 12 experiments | [View](SE%20EXPERIMENTS.pdf) |
 
 ---
 
@@ -276,9 +276,9 @@ White box, Black box testing and Test case development.
 <div align="center">
 
   <!-- Footer Navigation -->
-  **[↑ Back to Top](#software-engineering-lab)**
+  [↑ Back to Top](#software-engineering-lab)
 
-  **[How to Use](#how-to-use)** &nbsp;·&nbsp; **[Learning Path](#learning-path)** &nbsp;·&nbsp; **[Experiment 1](#experiment-1-problem-statement--process-model)** &nbsp;·&nbsp; **[Experiment 2](#experiment-2-srs-document)** &nbsp;·&nbsp; **[Experiment 3](#experiment-3-dfd--data-dictionary)** &nbsp;·&nbsp; **[Experiment 4](#experiment-4-use-case-diagrams)** &nbsp;·&nbsp; **[Experiment 5](#experiment-5-class-diagrams)** &nbsp;·&nbsp; **[Experiment 6](#experiment-6-sequence--collaboration)** &nbsp;·&nbsp; **[Experiment 7](#experiment-7-activity--state-diagrams)** &nbsp;·&nbsp; **[Experiment 8](#experiment-8-project-management-tools)** &nbsp;·&nbsp; **[Experiment 9](#experiment-9-cocomo-estimation)** &nbsp;·&nbsp; **[Experiment 10](#experiment-10-ui-design)** &nbsp;·&nbsp; **[Experiment 11](#experiment-11-rmmm-plan)** &nbsp;·&nbsp; **[Experiment 12](#experiment-12-software-testing)**
+  [How to Use](#how-to-use) &nbsp;·&nbsp; [Learning Path](#learning-path) &nbsp;·&nbsp; [Experiment 1](#experiment-1-problem-statement--process-model) &nbsp;·&nbsp; [Experiment 2](#experiment-2-srs-document) &nbsp;·&nbsp; [Experiment 3](#experiment-3-dfd--data-dictionary) &nbsp;·&nbsp; [Experiment 4](#experiment-4-use-case-diagrams) &nbsp;·&nbsp; [Experiment 5](#experiment-5-class-diagrams) &nbsp;·&nbsp; [Experiment 6](#experiment-6-sequence--collaboration) &nbsp;·&nbsp; [Experiment 7](#experiment-7-activity--state-diagrams) &nbsp;·&nbsp; [Experiment 8](#experiment-8-project-management-tools) &nbsp;·&nbsp; [Experiment 9](#experiment-9-cocomo-estimation) &nbsp;·&nbsp; [Experiment 10](#experiment-10-ui-design) &nbsp;·&nbsp; [Experiment 11](#experiment-11-rmmm-plan) &nbsp;·&nbsp; [Experiment 12](#experiment-12-software-testing)
 
   <br>
 
@@ -290,7 +290,7 @@ White box, Black box testing and Test case development.
 
 <div align="center">
 
-  ### [Software Engineering and Software Engineering Lab](https://github.com/Amey-Thakur/SOFTWARE-ENGINEERING-AND-SOFTWARE-ENGINEERING-LAB)
+  ### [Software Engineering and Software Engineering Lab](../)
 
   **CSL601 · Semester VI · Computer Engineering**
 
