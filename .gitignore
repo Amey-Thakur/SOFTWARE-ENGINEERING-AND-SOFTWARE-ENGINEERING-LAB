@@ -1,0 +1,35 @@
+# ALL REPOSITORIES
+# ----------------
+# General
+.DS_Store
+Thumbs.db
+*.swp
+*.log
+*.tmp
+*.bak
+*~
+
+# Windows
+desktop.ini
+$RECYCLE.BIN/
+
+# Office Temporary Files
+~$*.doc
+~$*.docx
+~$*.ppt
+~$*.pptx
+~$*.xls
+~$*.xlsx
+
+# UML Tools (StarUML, etc)
+# Ignore fragments if they are not source
+*.mfj
+
+# Archives
+*.zip
+*.tar.gz
+*.rar
+*.7z
+
+# Git
+*.orig
