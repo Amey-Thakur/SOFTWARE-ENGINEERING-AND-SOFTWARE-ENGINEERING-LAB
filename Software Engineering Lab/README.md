@@ -297,4 +297,3 @@ White box, Black box testing and Test case development.
   *University of Mumbai · Curated by [Amey Thakur](https://github.com/Amey-Thakur)*
 
 </div>
-
