@@ -1,17 +1,26 @@
-# ALL REPOSITORIES
-# ----------------
-# General
-.DS_Store
-Thumbs.db
-*.swp
-*.log
-*.tmp
-*.bak
-*~
+# Software Engineering - Academic Repository
+# Specialized .gitignore for software design and scholarly archiving
 
-# Windows
-desktop.ini
-$RECYCLE.BIN/
+# OS-generated files
+[Tt]humbs.db
+[Dd]esktop.ini
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Editor and IDE configuration
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+*.iml
+*.code-workspace
+
+# UML Tools (StarUML, etc.)
+*.mfj
+*.mdj.bak
+*.mdl.bak
 
 # Office Temporary Files
 ~$*.doc
@@ -21,15 +30,19 @@ $RECYCLE.BIN/
 ~$*.xls
 ~$*.xlsx
 
-# UML Tools (StarUML, etc)
-# Ignore fragments if they are not source
-*.mfj
-
 # Archives
 *.zip
 *.tar.gz
 *.rar
 *.7z
 
-# Git
+# Temporary and Cache files
+*.tmp
+*.log
+.cache/
+
+# Academic build/output artifacts
+*.bak
+*.sav
+*.old
 *.orig
