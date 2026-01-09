@@ -230,8 +230,6 @@ A responsive Digital Bookstore website developed as a mini-project for the Softw
 | 4 | [Publication Certificate](https://github.com/Amey-Thakur/DIGITAL-BOOKSTORE/blob/main/Mini-Project/IJRASET36609%20-%20Digital%20Bookstore.pdf) | Recognition for project excellence | July 2021 |
 | 5 | [Project Diagrams & Plan](Software%20Engineering%20Lab/SE%20EXPERIMENTS.pdf) | Raw work diagrams planning for digital bookstore project | May 2021 |
 
-
-
 ---
 
 <!-- =========================================================================================
