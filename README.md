@@ -227,7 +227,7 @@ A responsive Digital Bookstore website developed as a mini-project for the Softw
 | 1 | Project Repository | Complete source code and documentation | May 2021 | [View](https://github.com/Amey-Thakur/DIGITAL-BOOKSTORE) |
 | 2 | Project Demo (YouTube) | Real-time demonstration of features | May 2021 | [View](https://youtu.be/JuUix8olOC8) |
 | 3 | Project Timeline | Project execution schedule and milestones | March 2021 | [View](Amey_B-50_Software_Engineering_Mini_Project_Timeline.pdf) |
-| 4 | Publication Certificate | Recognition for project excellence | July 2021 | [View](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Research%20Papers/Digital%20Bookstore/IJRASET36609%20-%20Digital%20Bookstore.pdf) |
+| 4 | Publication Certificate | Recognition for project excellence | July 2021 | [View](https://github.com/Amey-Thakur/DIGITAL-BOOKSTORE/blob/main/Mini-Project/IJRASET36609%20-%20Digital%20Bookstore.pdf) |
 | 5 | Project Diagrams & Plan | Raw work diagrams planning for digital bookstore project | May 2021 | [View](Software%20Engineering%20Lab/SE%20EXPERIMENTS.pdf) |
 
 ---
