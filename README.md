@@ -222,13 +222,13 @@ A responsive Digital Bookstore website developed as a mini-project for the Softw
 > - [Publication Certificate](https://github.com/Amey-Thakur/DIGITAL-BOOKSTORE/blob/main/Mini-Project/IJRASET36609%20-%20Digital%20Bookstore.pdf)
 
 ### Resources
-| # | Resource | Description | Date | Link |
-|:-:|:---|:---|:---:|:-:|
-| 1 | Project Repository | Complete source code and documentation | May 2021 | [View](https://github.com/Amey-Thakur/DIGITAL-BOOKSTORE) |
-| 2 | Project Demo (YouTube) | Real-time demonstration of features | May 2021 | [View](https://youtu.be/JuUix8olOC8) |
-| 3 | Project Timeline | Project execution schedule and milestones | March 2021 | [View](Amey_B-50_Software_Engineering_Mini_Project_Timeline.pdf) |
-| 4 | Publication Certificate | Recognition for project excellence | July 2021 | [View](https://github.com/Amey-Thakur/DIGITAL-BOOKSTORE/blob/main/Mini-Project/IJRASET36609%20-%20Digital%20Bookstore.pdf) |
-| 5 | Project Diagrams & Plan | Raw work diagrams planning for digital bookstore project | May 2021 | [View](Software%20Engineering%20Lab/SE%20EXPERIMENTS.pdf) |
+| # | Resource | Description | Date |
+|:-:|:---|:---|:---:|
+| 1 | [Project Repository](https://github.com/Amey-Thakur/DIGITAL-BOOKSTORE) | Complete source code and documentation | May 2021 |
+| 2 | [Project Demo (YouTube)](https://youtu.be/JuUix8olOC8) | Real-time demonstration of features | May 2021 |
+| 3 | [Project Timeline](Amey_B-50_Software_Engineering_Mini_Project_Timeline.pdf) | Project execution schedule and milestones | March 2021 |
+| 4 | [Publication Certificate](https://github.com/Amey-Thakur/DIGITAL-BOOKSTORE/blob/main/Mini-Project/IJRASET36609%20-%20Digital%20Bookstore.pdf) | Recognition for project excellence | July 2021 |
+| 5 | [Project Diagrams & Plan](Software%20Engineering%20Lab/SE%20EXPERIMENTS.pdf) | Raw work diagrams planning for digital bookstore project | May 2021 |
 
 
 
