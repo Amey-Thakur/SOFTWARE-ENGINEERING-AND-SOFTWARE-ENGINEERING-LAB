@@ -208,7 +208,6 @@ The laboratory component (CSL601) focuses on hands-on implementation of software
 | :---: | :---: |
 </div>
 
-> [!IMPORTANT]
 > ### 🤝🏻 Special Acknowledgement
 > *Special thanks to **[Mega Satish](https://github.com/msatmod)** for her meaningful contributions, guidance, and support that helped shape this work.*
 
@@ -216,7 +215,7 @@ The laboratory component (CSL601) focuses on hands-on implementation of software
 A responsive Digital Bookstore website developed as a mini-project for the Software Engineering Lab. The website lists all of the books that are currently available in the shop, along with their descriptions. Users can browse books by category or author, search for a specific book, and view complete description pages. The platform features sorting by price or discount, user registration and login, shopping cart functionality, and direct email support for inquiries. This project showcases the practical integration of **PHP**, **MySQL**, and **front-end technologies** to solve real-world e-commerce challenges.
 
 > [!NOTE]
-> **Research Impact**: This project was published as a research paper in **International Journal for Research in Applied Science and Engineering Technology (IJRASET)** (Volume 9, Issue 7) and is also available as a preprint on **viXra**. The project received an official Publication Certificate for its research contribution to software engineering education.
+> **Research Impact & Certification**: This project was published as a research paper in **International Journal for Research in Applied Science and Engineering Technology (IJRASET)** (Volume 9, Issue 7) and is also available as a preprint on **viXra**. The project received an official Publication Certificate for its research contribution to software engineering education.
 > - [Preprint @viXra](https://vixra.org/abs/2108.0142)
 > - [Published Paper @IJRASET](https://doi.org/10.22214/ijraset.2021.36609)
 > - [Publication Certificate](https://github.com/Amey-Thakur/DIGITAL-BOOKSTORE/blob/main/Mini-Project/IJRASET36609%20-%20Digital%20Bookstore.pdf)
@@ -404,7 +403,7 @@ Grateful acknowledgment to **[Mega Satish](https://github.com/msatmod)** for her
 
 Grateful acknowledgment to **[Mega Satish](https://github.com/msatmod)** for her exceptional support and collaboration during the development of the "Digital Bookstore" mini-project for this course. Working alongside her was a truly enriching experience; her technical expertise, dedication, and enthusiasm for innovation turned every challenge into a meaningful learning opportunity. Our shared curiosity and collaborative efforts in building this e-commerce platform were essential to its success. Thank you, Mega, for being such an outstanding project partner and for all the knowledge and encouragement you shared along the way.
 
-Grateful acknowledgment to the faculty members of the Department of Computer Engineering at Terna Engineering College for their guidance and instruction in Software Engineering. Their emphasis on software development lifecycle and testing methodologies helped build a solid foundation in software engineering.
+Grateful acknowledgment to the faculty members of the Department of Computer Engineering at Terna Engineering College for their guidance and instruction in Software Engineering and Software Engineering Laboratory. Their emphasis on software development lifecycle and testing methodologies helped build a solid foundation in software engineering.
 
 Special thanks to the mentors and peers whose encouragement, discussions, and support contributed meaningfully to this learning experience.
 
