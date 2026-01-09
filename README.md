@@ -204,7 +204,7 @@ The laboratory component (CSL601) focuses on hands-on implementation of software
 <div align="center">
 
 ### Authors
-| <img src="https://github.com/Amey-Thakur.png" width="150" alt="Amey Thakur"><br>[**Amey Thakur**](https://github.com/Amey-Thakur)<br>[![ORCID](https://img.shields.io/badge/ORCID-0000--0001--5644--1575-brightgreen)](https://orcid.org/0000-0001-5644-1575) | <img src="Mega/Mega.png" width="150" alt="Mega Satish"><br>[**Mega Satish**](https://github.com/msatmod)<br>[![ORCID](https://img.shields.io/badge/ORCID-0000--0002--1844--9557-brightgreen)](https://orcid.org/0000-0002-1844-9557) |
+| <img src="https://github.com/Amey-Thakur.png" width="150" alt="Amey Thakur"><br>[**Amey Thakur**](https://github.com/Amey-Thakur)<br><br>[![ORCID](https://img.shields.io/badge/ORCID-0000--0001--5644--1575-brightgreen)](https://orcid.org/0000-0001-5644-1575) | <img src="Mega/Mega.png" width="150" alt="Mega Satish"><br>[**Mega Satish**](https://github.com/msatmod)<br><br>[![ORCID](https://img.shields.io/badge/ORCID-0000--0002--1844--9557-brightgreen)](https://orcid.org/0000-0002-1844-9557) |
 | :---: | :---: |
 </div>
 
