@@ -18,7 +18,7 @@
 
   ---
 
-  [Overview](#overview) &nbsp;·&nbsp; [Contents](#repository-contents) &nbsp;·&nbsp; [Reference Books](#reference-books) &nbsp;·&nbsp; [Personal Preparation](#personal-preparation) &nbsp;·&nbsp; [Assignments](#assignments) &nbsp;·&nbsp; [Quizzes](#quizzes) &nbsp;·&nbsp; [Laboratory](#software-engineering-laboratory) &nbsp;·&nbsp; [Mini Project](#software-engineering-mini-project) &nbsp;·&nbsp; [Mock Test](#mock-test) &nbsp;·&nbsp; [Internal Assessment Test](#internal-assessment-test) &nbsp;·&nbsp; [Semester Exam](#semester-exam) &nbsp;·&nbsp; [Question Papers](#question-papers) &nbsp;·&nbsp; [Submission Report](#submission-completion-report) &nbsp;·&nbsp; [Syllabus](#syllabus) &nbsp;·&nbsp; [Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
+  [Overview](#overview) &nbsp;·&nbsp; [Contents](#repository-contents) &nbsp;·&nbsp; [Reference Books](#reference-books) &nbsp;·&nbsp; [Personal Preparation](#personal-preparation) &nbsp;·&nbsp; [Assignments](#assignments) &nbsp;·&nbsp; [Quizzes](#quizzes) &nbsp;·&nbsp; [Laboratory](#software-engineering-laboratory) &nbsp;·&nbsp; [Mini-Project](#software-engineering-mini-project) &nbsp;·&nbsp; [Mock Test](#mock-test) &nbsp;·&nbsp; [Internal Assessment Test](#internal-assessment-test) &nbsp;·&nbsp; [Semester Exam](#semester-exam) &nbsp;·&nbsp; [Question Papers](#question-papers) &nbsp;·&nbsp; [Submission Report](#submission-completion-report) &nbsp;·&nbsp; [Syllabus](#syllabus) &nbsp;·&nbsp; [Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
 
 </div>
 
@@ -179,7 +179,7 @@ The laboratory component (CSL601) focuses on hands-on implementation of software
 <!-- =========================================================================================
                                      PROJECT SECTION
      ========================================================================================= -->
-## Software Engineering Mini Project
+## Software Engineering Mini-Project
 
 <div align="center">
 
@@ -203,8 +203,8 @@ The laboratory component (CSL601) focuses on hands-on implementation of software
 
 <div align="center">
 
-### 👥 Authors
-| <img src="https://github.com/Amey-Thakur.png" width="150" alt="Amey Thakur"><br>[**Amey Thakur**](https://github.com/Amey-Thakur) | <img src="Mega/Mega.png" width="150" alt="Mega Satish"><br>[**Mega Satish**](https://github.com/msatmod) |
+### Authors
+| <img src="https://github.com/Amey-Thakur.png" width="150" alt="Amey Thakur"><br>[**Amey Thakur**](https://github.com/Amey-Thakur)<br>[![ORCID](https://img.shields.io/badge/ORCID-0000--0001--5644--1575-brightgreen)](https://orcid.org/0000-0001-5644-1575) | <img src="Mega/Mega.png" width="150" alt="Mega Satish"><br>[**Mega Satish**](https://github.com/msatmod)<br>[![ORCID](https://img.shields.io/badge/ORCID-0000--0002--1844--9557-brightgreen)](https://orcid.org/0000-0002-1844-9557) |
 | :---: | :---: |
 </div>
 
@@ -216,9 +216,10 @@ The laboratory component (CSL601) focuses on hands-on implementation of software
 A responsive Digital Bookstore website developed as a mini project for the Software Engineering Lab. The website lists all of the books that are currently available in the shop, along with their descriptions. Users can browse books by category or author, search for a specific book, and view complete description pages. The platform features sorting by price or discount, user registration and login, shopping cart functionality, and direct email support for inquiries. This project showcases the practical integration of **PHP**, **MySQL**, and **front-end technologies** to solve real-world e-commerce challenges.
 
 > [!NOTE]
-> **Research Impact**: This project was published as a research paper in **International Journal for Research in Applied Science and Engineering Technology (IJRASET)** (Volume 9, Issue 7) and is also available as a preprint on **viXra**.
+> **Research Impact**: This project was published as a research paper in **International Journal for Research in Applied Science and Engineering Technology (IJRASET)** (Volume 9, Issue 7) and is also available as a preprint on **viXra**. The project received an official Publication Certificate for its research contribution to software engineering education.
 > - [Preprint @viXra](https://vixra.org/abs/2108.0142)
 > - [Published Paper @IJRASET](https://doi.org/10.22214/ijraset.2021.36609)
+> - [Publication Certificate](https://github.com/Amey-Thakur/DIGITAL-BOOKSTORE/blob/main/Mini-Project/IJRASET36609%20-%20Digital%20Bookstore.pdf)
 
 ### Resources
 | # | Resource | Description | Date | Link |
@@ -395,13 +396,13 @@ This repository and all linked academic content are made available under the **C
 
 This repository represents a comprehensive collection of study materials, reference books, assignments, and personal preparation notes curated during my academic journey. All content has been carefully organized and documented to serve as a valuable resource for students pursuing Software Engineering & Software Engineering Laboratory.
 
-**Connect**: [GitHub](https://github.com/Amey-Thakur) · [LinkedIn](https://www.linkedin.com/in/amey-thakur)
+**Connect**: [GitHub](https://github.com/Amey-Thakur) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/amey-thakur) &nbsp;·&nbsp; [ORCID](https://orcid.org/0000-0001-5644-1575)
 
 ### Acknowledgments
 
-Grateful acknowledgment to **[Mega Satish](https://github.com/msatmod)** for her exceptional support and collaboration during the laboratory experiments of this course. Her constant support, patience, and clarity as we learned the fundamentals of Software Engineering together made a real difference. Working alongside her was truly enriching; her ability to simplify complex concepts and her steady encouragement turned challenging experiments into meaningful learning moments. This repository reflects the growth that came from our shared curiosity and mutual dedication to mastering the subject. Thank you, Mega, for being such an outstanding partner to learn with and for all the knowledge we shared along the way.
+Grateful acknowledgment to **[Mega Satish](https://github.com/msatmod)** for her exceptional support and collaboration during the laboratory experiments of this course. Her constant support, patience, and clarity as we learned the fundamentals of software engineering together made a real difference. Working alongside her was truly enriching; her ability to simplify complex concepts and her steady encouragement turned challenging experiments into meaningful learning moments. This repository reflects the growth that came from our shared curiosity and mutual dedication to mastering software engineering. Thank you, Mega, for being such an outstanding partner to learn with and for all the knowledge we shared along the way.
 
-Special thanks to the faculty members of the Department of Computer Engineering at Terna Engineering College for their guidance and instruction in Software Engineering. Their clear teaching and continued support helped develop a strong understanding of software development principles.
+Grateful acknowledgment to the faculty members of the Department of Computer Engineering at Terna Engineering College for their guidance and instruction in Software Engineering. Their clear teaching and continued support helped develop a strong understanding of software development principles.
 
 Special thanks to the mentors and peers whose encouragement, discussions, and support contributed meaningfully to this learning experience.
 
@@ -415,7 +416,7 @@ Special thanks to the mentors and peers whose encouragement, discussions, and su
   <!-- Footer Navigation -->
   [↑ Back to Top](#software-engineering-and-software-engineering-laboratory)
 
-  [Overview](#overview) &nbsp;·&nbsp; [Contents](#repository-contents) &nbsp;·&nbsp; [Reference Books](#reference-books) &nbsp;·&nbsp; [Personal Preparation](#personal-preparation) &nbsp;·&nbsp; [Assignments](#assignments) &nbsp;·&nbsp; [Quizzes](#quizzes) &nbsp;·&nbsp; [Laboratory](#software-engineering-laboratory) &nbsp;·&nbsp; [Mini Project](#software-engineering-mini-project) &nbsp;·&nbsp; [Mock Test](#mock-test) &nbsp;·&nbsp; [Internal Assessment Test](#internal-assessment-test) &nbsp;·&nbsp; [Semester Exam](#semester-exam) &nbsp;·&nbsp; [Question Papers](#question-papers) &nbsp;·&nbsp; [Submission Report](#submission-completion-report) &nbsp;·&nbsp; [Syllabus](#syllabus) &nbsp;·&nbsp; [Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
+  [Overview](#overview) &nbsp;·&nbsp; [Contents](#repository-contents) &nbsp;·&nbsp; [Reference Books](#reference-books) &nbsp;·&nbsp; [Personal Preparation](#personal-preparation) &nbsp;·&nbsp; [Assignments](#assignments) &nbsp;·&nbsp; [Quizzes](#quizzes) &nbsp;·&nbsp; [Laboratory](#software-engineering-laboratory) &nbsp;·&nbsp; [Mini-Project](#software-engineering-mini-project) &nbsp;·&nbsp; [Mock Test](#mock-test) &nbsp;·&nbsp; [Internal Assessment Test](#internal-assessment-test) &nbsp;·&nbsp; [Semester Exam](#semester-exam) &nbsp;·&nbsp; [Question Papers](#question-papers) &nbsp;·&nbsp; [Submission Report](#submission-completion-report) &nbsp;·&nbsp; [Syllabus](#syllabus) &nbsp;·&nbsp; [Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
 
   <br>
 
