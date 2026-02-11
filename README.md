@@ -55,7 +55,8 @@ As a computer engineer, understanding software development principles is crucial
 - **Academic Documentation**: To authentically document my learning journey through Software Engineering and Software Engineering Laboratory.
 - **Community Contribution**: To share these resources with students and learners who may benefit from them.
 
-All materials in this repository were gathered, organized, and documented by me during my undergraduate studies (2018-2022) as part of my coursework and exam preparation.
+> [!NOTE]
+> All materials in this repository were created, compiled, and organized by me throughout my undergraduate program (2018-2022) as part of my coursework, laboratory assignments, and project implementations.
 
 ---
 
