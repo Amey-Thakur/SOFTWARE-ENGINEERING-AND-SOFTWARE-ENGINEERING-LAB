@@ -8,7 +8,7 @@
   ### CSL601 · Semester VI · Computer Engineering
 
   [![Curated by](https://img.shields.io/badge/Curated%20by-Amey%20Thakur-blue.svg)](https://github.com/Amey-Thakur)
-  [![Documents](https://img.shields.io/badge/Documents-12-yellowgreen.svg)](#laboratory-experiments)
+  [![Documents](https://img.shields.io/badge/Documents-12-yellowgreen.svg)](#learning-path)
   [![Type](https://img.shields.io/badge/Type-PDF%20%7C%20DOCX-blueviolet.svg)](./)
 
   **A comprehensive collection of laboratory experiments for Software Engineering, covering process models, requirements engineering, design modeling (UML), risks, cost estimation, and testing.**
