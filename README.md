@@ -10,9 +10,9 @@
   ### CSC601 & CSL601 · Semester VI · Computer Engineering
 
   [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](LICENSE)
-  [![University](https://img.shields.io/badge/University-Mumbai-%23A6192E.svg)](https://mu.ac.in/)
-  [![Institution](https://img.shields.io/badge/Institution-Terna%20Engineering%20College-orange.svg)](https://ternaengg.ac.in/)
-  [![Curated by](https://img.shields.io/badge/Curated%20by-Amey%20Thakur-blue.svg)](https://github.com/Amey-Thakur)
+  [![University](https://img.shields.io/badge/University-Mumbai-A6192E.svg)](https://mu.ac.in/)
+  [![Institution](https://img.shields.io/badge/Institution-Terna%20Engineering%20College-E8710A.svg)](https://ternaengg.ac.in/)
+  [![Curated by](https://img.shields.io/badge/Curated%20by-Amey%20Thakur-0969DA.svg)](https://github.com/Amey-Thakur)
 
   **A comprehensive academic resource for Software Engineering (SE) and Software Engineering Laboratory, covering software development lifecycle, requirements analysis, design patterns, testing methodologies, and project management.**
 
@@ -146,8 +146,8 @@ The laboratory component (CSL601) focuses on hands-on implementation of software
 
 <div align="center">
 
-  [![Total Experiments](https://img.shields.io/badge/Total%20Experiments-12-yellowgreen.svg)](Software%20Engineering%20Lab/)
-  [![Status](https://img.shields.io/badge/Status-Complete-brightgreen.svg)](Software%20Engineering%20Lab/)
+  [![Total Experiments](https://img.shields.io/badge/Total%20Experiments-12-3949AB.svg)](Software%20Engineering%20Lab/)
+  [![Status](https://img.shields.io/badge/Status-Complete-2EA043.svg)](Software%20Engineering%20Lab/)
 
 </div>
 
@@ -188,9 +188,9 @@ The laboratory component (CSL601) focuses on hands-on implementation of software
 
   **A responsive website for online book browsing and purchasing using HTML, CSS, JavaScript, and PHP**
 
-  [![Project](https://img.shields.io/badge/Project-Digital%20Bookstore-purple.svg)](https://github.com/Amey-Thakur/DIGITAL-BOOKSTORE)
-  [![Stack](https://img.shields.io/badge/Stack-PHP%20%7C%20MySQL-blue.svg)](https://github.com/Amey-Thakur/DIGITAL-BOOKSTORE)
-  [![Status](https://img.shields.io/badge/Status-Completed-brightgreen.svg)](https://github.com/Amey-Thakur/DIGITAL-BOOKSTORE)
+  [![Project](https://img.shields.io/badge/Project-Digital%20Bookstore-BF3989.svg)](https://github.com/Amey-Thakur/DIGITAL-BOOKSTORE)
+  [![Stack](https://img.shields.io/badge/Stack-PHP%20%7C%20MySQL-8250DF.svg)](https://github.com/Amey-Thakur/DIGITAL-BOOKSTORE)
+  [![Status](https://img.shields.io/badge/Status-Completed-2EA043.svg)](https://github.com/Amey-Thakur/DIGITAL-BOOKSTORE)
 
 </div>
 
