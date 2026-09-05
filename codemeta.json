@@ -1,0 +1,80 @@
+{
+    "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
+    "@type": "SoftwareSourceCode",
+    "additionalType": "https://schema.org/LearningResource",
+    "name": "SOFTWARE-ENGINEERING-AND-SOFTWARE-ENGINEERING-LAB",
+    "description": "CSC601: Software Engineering [SE] & CSL601: Software Engineering Lab [SE Lab] | TE Semester VI | Computer Engineering",
+    "identifier": "SOFTWARE-ENGINEERING-AND-SOFTWARE-ENGINEERING-LAB",
+    "license": "https://spdx.org/licenses/CC-BY-4.0.html",
+    "author": [
+        {
+            "@type": "Person",
+            "givenName": "Amey",
+            "familyName": "Thakur",
+            "id": "https://orcid.org/0000-0001-5644-1575",
+            "affiliation": {
+                "@type": "Organization",
+                "name": "Terna Engineering College"
+            }
+        },
+        {
+            "@type": "Person",
+            "givenName": "Mega",
+            "familyName": "Satish",
+            "id": "https://orcid.org/0000-0002-1844-9557",
+            "affiliation": {
+                "@type": "Organization",
+                "name": "Terna Engineering College"
+            }
+        }
+    ],
+    "dateCreated": "2021-07-28",
+    "dateReleased": "2021-08-28",
+    "codeRepository": "https://github.com/Amey-Thakur/SOFTWARE-ENGINEERING-AND-SOFTWARE-ENGINEERING-LAB",
+    "isPartOf": "https://github.com/Amey-Thakur/COMPUTER-ENGINEERING",
+    "developmentStatus": "complete",
+    "applicationCategory": "Academic Course Archive",
+    "educationalLevel": "Undergraduate, Third Year, Semester VI",
+    "keywords": [
+        "Agile Methodology",
+        "Computer Engineering",
+        "Computer Science",
+        "Engineering",
+        "Requirement Analysis",
+        "SDLC",
+        "Software",
+        "Software Engineering",
+        "Software Engineering Education",
+        "Software Engineering Project",
+        "Software Testing",
+        "SRS Document",
+        "Textbooks",
+        "UML Diagrams",
+        "University Of Mumbai",
+        "CSC601",
+        "CSL601",
+        "SE",
+        "SE Lab",
+        "Software Engineering Lab",
+        "University of Mumbai",
+        "Mumbai University",
+        "Terna Engineering College",
+        "Navi Mumbai",
+        "India",
+        "B.E. Computer Engineering",
+        "TE Semester VI",
+        "Semester VI",
+        "Assignments",
+        "Question Papers",
+        "Reference Books",
+        "Syllabus",
+        "CBCGS",
+        "Amey Thakur",
+        "amey",
+        "ameythakur",
+        "amey-thakur",
+        "ameyarc",
+        "Mega Satish",
+        "megasatish"
+    ]
+}

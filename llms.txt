@@ -1,0 +1,46 @@
+# Software Engineering and Software Engineering Laboratory
+
+> CSC601: Software Engineering [SE] & CSL601: Software Engineering Lab [SE
+> Lab] | TE Semester VI | Computer Engineering
+
+Author: Amey Thakur, ORCID 0000-0001-5644-1575
+Co-author: Mega Satish, ORCID 0000-0002-1844-9557
+Institution: Terna Engineering College, University of Mumbai
+Programme: B.E. Computer Engineering, Third Year, Semester VI
+Course codes: CSC601, CSL601
+Licence: CC BY 4.0, attribution required
+Repository created: 28 July 2021
+Work dated: 28 August 2021
+
+## What is in this repository
+
+- Assignments, 6 files
+- Internal Assessment Test, 6 files
+- Mega, 5 files
+- Question Papers, 32 files
+- Quizzes, 6 files
+- Reference Books, 19 files
+- Semester Exam, 6 files
+- Software Engineering Lab, 27 files
+- Submission Report, 2 files
+- Syllabus, 2 files
+- Amey_B-50_Software_Engineering_Mini_Project_Timeline.pdf
+- Blueprint (SE).png
+- Computer Semester 6 Timetable.pdf
+- SEMESTER VI.jpeg
+- Technical Mock Test- For Terna Engineering College by Campus Corners!.pdf
+
+## Subject terms
+
+agile-methodology, computer-engineering, computer-science, engineering,
+requirement-analysis, sdlc, software, software-engineering,
+software-engineering-education, software-engineering-project,
+software-testing, srs-document, textbooks, uml-diagrams,
+university-of-mumbai
+
+## Where this sits
+
+- This repository: https://github.com/Amey-Thakur/SOFTWARE-ENGINEERING-AND-SOFTWARE-ENGINEERING-LAB
+- Degree index, every subject and project: https://github.com/Amey-Thakur/COMPUTER-ENGINEERING
+- Author: https://github.com/Amey-Thakur
+- Research notes and reflections: https://amey-thakur.github.io/
